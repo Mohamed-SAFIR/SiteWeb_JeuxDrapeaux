@@ -1,0 +1,772 @@
+[
+
+    {
+
+        "type" : "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [64.9841821,-18.1059013]
+                },
+                "drp" : "../controller/data/isl.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Islande",
+                        "polygone":"../controller/data/isl.geo.json",
+                        "photo":"../public/photos/islande.jpeg",
+                        "resume":"L'Islande, est un pays insulaire d'Europe du Nord situé dans l'océan Atlantique. Géographiquement plus proche du continent américain du fait de sa proximité avec le Groenland, le pays est rattaché culturellement et historiquement à l'Europe. Ayant pour capitale et pour plus grande ville Reykjavik, son régime politique est une république parlementaire.Île de l'océan Atlantique nord, située entre le Groenland et la Norvège, au nord-ouest des îles Féroé, l'Islande s'étend sur 102 775 km2.L'Islande a pour régime politique une république parlementaire. Le pouvoir exécutif est exercé par son chef d'État, portant le titre de « président d'Islande », et le gouvernement de l'Islande dirigé par un Premier ministre."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [28.0000272,2.9999825]
+                },
+                "drp" : "../controller/data/dza.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Algérie",
+                        "polygone":"../controller/data/dza.geo.json",
+                        "photo":"../public/photos/algerie.jpeg",
+                        "resume":"L'Algérie est un pays d’Afrique du Nord faisant partie du Maghreb. Depuis 1962, elle est nommée en forme longue République algérienne démocratique et populaire. Sa capitale est Alger, la ville la plus peuplée du pays, dans le Nord, sur la côte méditerranéenne.Au 1er janvier 2019, la population algérienne résidente avait atteint 43 millions d’habitants. Avec une superficie de 2 381 741 km2, c'est à la fois le plus grand pays d'AfriqueNote,du monde arabe et du bassin méditerranéen.L’Algérie est membre de l'Organisation des Nations unies (ONU), de l’Union africaine (UA), du Mouvement des non-alignés et de la Ligue arabe pratiquement depuis son indépendance, en 1962.L’Algérie est le pays le plus étendu du continent africain, mais aussi du monde arabe et du pourtour méditerranéen, sa partie sud représentant une fraction notable du Sahara.Dans le Nord du pays et le long du littoral méditerranéen, s'étend la bande du Tell sur environ 1 600 km22, large de 80 à 190 km. Elle est formée de petites chaînes de montagnes."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-28.8166236,24.991639]
+                },
+                "drp" : "../controller/data/zaf.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Afrique du Sud",
+                        "polygone":"../controller/data/zaf.geo.json",
+                        "photo":"../public/photos/sudAfrica.jpeg",
+                        "resume":"L'Afrique du Sud,est un pays situé à l'extrémité australe du continent africain. Sa capitale administrative est Pretoria.L'Afrique du Sud compte 56,72 millions d’habitants3en 2017 répartis en 80,2 % de Noirs, 8,8 % de Coloureds, 8,4 % de Blancs et 2,5 % d'asiatiques.L'égalité des revenus entre les différents groupes de populations n'a pas progressé depuis la fin de l'apartheid et l'Afrique du Sud connaît un taux d'inégalité parmi les plus élevés au monde.C'est toutefois une puissance de référence pour le continent africain avec l'une des économies les plus développées du continent et des infrastructures modernes couvrant tout le pays. C'est la deuxième puissance économique d'Afrique derrière le Nigeria.La dénomination « république d'Afrique du Sud » a succédé à celle d'« union d'Afrique du Sud » le 31 mai 1961, lorsque le pays a cessé d'être une monarchie pour devenir une république."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [26.2540493,29.2675469]
+                },
+                "drp" : "../controller/data/egy.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Égypte",
+                        "polygone":"../controller/data/egy.geo.json",
+                        "photo":"../public/photos/egypte.jpeg",
+                        "resume":"L'Égypte un pays se trouvant en Afrique du Nord-Est et, pour la péninsule du Sinaï, en Asie de l'Ouest. Située sur la côte sud de la Méditerranée orientale.Avec près de 105 millions d'habitants en 2020, l'Égypte est le troisième pays le plus peuplé d'Afrique.Sa capitale est Le Caire et sa monnaie la livre égyptienne. La langue officielle du pays est l'arabe, utilisé dans tous les documents et dans l'éducation.Le pouvoir exécutif est détenu par le président de la république. Depuis 1981, Hosni Moubarak occupait le poste de président, réélu lors d'un référendum tous les six ans.Durant près de trois millénaires, la vallée du Nil vit prospérer une des civilisations les plus brillantes de l'Histoire. L'invention d'une écriture originale sous forme d'idéogrammes syllabiques, les hiéroglyphes, peu de temps après l'apparition du cunéiforme en Mésopotamie vers -3300, contribue à sortir l'espèce humaine de la Préhistoire. L’Égypte des pharaons put ainsi largement s'épanouir pour atteindre son apogée au xiiie siècle avant notre ère, laissant une œuvre monumentale au patrimoine mondial."
+                    }
+                }
+            },
+           
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [16.0000552,-24.0083947]
+                },
+                "drp" : "../controller/data/cpv.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Cap-Vert",
+                        "polygone":"../controller/data/cpv.geo.json",
+                        "photo":"../public/photos/capVert.jpeg",
+                        "resume":"Cap-vert,est un État insulaire, composé d'un archipel de dix îles volcaniques. Situé dans l'océan Atlantique, au large des côtes du Sénégal, il couvre une superficie d'environ 4 000 km2. Praia, la capitale, se trouve à 644 km de la presqu'île du Cap-Vert, au Sénégal. L'archipel se divise en deux séries d'îles : au sud les îles de Sotavento et au nord les îles de Barlavento.Les îles étaient inhabitées avant l'arrivée des premiers explorateurs portugais en 1456.Les îles du Cap-Vert sont inhabitées jusqu'à l'arrivée des colons européens.L'archipel est découvert par des explorateurs génois et portugais vers 1456."
+                    }
+                }
+            },
+           
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [26.8234472,18.1236723]
+                },
+                "drp" : "../controller/data/lby.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Libye",
+                        "polygone":"../controller/data/lby.geo.json",
+                        "photo":"../public/photos/libye.jpeg",
+                        "resume":"Libye, est un pays de la région du Maghreb en Afrique du Nord , bordé par leMer Méditerranée au nord. L' État souverain est composé de trois régions historiques: la Tripolitaine , le Fezzan et la Cyrénaïque . Avec une superficie de près de 1,8 million de kilomètres carrés (700 000 milles carrés), la Libye est le quatrième plus grand pays d'Afrique et le 16ele plus grand pays du monde. Libye possède les dixièmes plus grandes réserves prouvées de pétrole de tous les pays du monde.La plus grande ville et capitale, Tripoli , est située dans l'ouest de la Libye et contient plus d'un million des six millions d'habitants de la Libye.La Libye est habitée par des Berbères depuis la fin de l' âge du bronze en tant que descendants des cultures ibéromaurusienne et capsienne.La Libye est devenue indépendante en tant que royaume en 1951.Le chef du coup d'État Mouammar Kadhafi a dirigé le pays de 1969 et la révolution culturelle libyenne en 1973 jusqu'à ce qu'il soit renversé et tué lors de la guerre civile libyenne de 2011."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [38.9953683,21.9877132]
+                },
+                "drp" : "../controller/data/grc.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Grèce",
+                        "polygone":"../controller/data/grc.geo.json",
+                        "photo":"../public/photos/grece.jpeg",
+                        "resume":"La Grèce, est un pays d’Europe du Sud. D'une superficie de 131 957 km2 pour un peu moins de onze millions d'habitants.  La mer Ionienne à l'ouest et la mer Égée à l'est, parties de la mer Méditerranée, encadrent le pays dont le cinquième du territoire est constitué de plus de 9 000 îles et îlots dont près de 200 sont habités. De plus, 80 % de son territoire est constitué de montagnes dont la plus haute est le mont Olympe, dont le sommet culmine à 2 917 mètres. La Grèce est le berceau de la civilisation occidentale, patrie des arts (théâtre, architecture), de la politique (Athènes est le berceau de la démocratie), de la philosophie (stoïcisme, épicurisme, aristotélisme) et des sciences (mathématiques, physiques, médecine). La Grèce hellénistique a légué à l'Europe un patrimoine culturel et linguistique colossal."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [14.4750607,-14.4529612]
+                },
+                "drp" : "../controller/data/sen.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Sénégal",
+                        "polygone":"../controller/data/sen.geo.json",
+                        "photo":"../public/photos/senegal.jpeg",
+                        "resume":"Le Sénégal, est un pays d'Afrique de l'Ouest.La Gambie forme une quasi-enclave dans le Sénégal, pénétrant à plus de 300 km à l'intérieur des terres.Les îles du Cap-Vert sont situées à 560 km de la côte sénégalaise.Le pays doit son nom au fleuve qui le borde à l'est et au nord et qui prend sa source dans le Fouta-Djalon en Guinée. Le climat est tropical et sec avec deux saisons : la saison sèche et la saison des pluies.Le Sénégal fait partie de la Communauté économique des États de l'Afrique de l'Ouest (CEDEAO). Depuis le 2 avril 2012, le président du pays est Macky Sall. Intégré aux principales instances de la communauté internationale, le Sénégal fait également partie de l'Union africaine (UA), de la Communauté des États sahélo-sahariens (CES), de l'Organisation internationale de la francophonie et de l'Organisation de la coopération islamique.Le plus souvent la préhistoire et protohistoire du Sénégal évoquent avant tout les cercles mégalithiques de Sénégambie ou les amas coquilliers artificiels, tels ceux de l'île de Fadiouth.Des bifaces en amande du paléolithique inférieur ont été découverts dans la presqu'île du Cap-Vert, ainsi que d'autres objets en pierre plus élaborés (hachereaux, racloirs) dans la région de Rufisque et au bord des rivières du Sénégal oriental."
+                    }
+                }
+            },
+            
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [31.1728205,-7.3362482]
+                },
+                "drp" : "../controller/data/mar.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Maroc",
+                        "polygone":"../controller/data/mar.geo.json",
+                        "photo":"../public/photos/maroc.jpeg",
+                        "resume":"Le Maroc, en forme longue le royaume du Maroc, autrefois l'Empire chérifien, est un État unitaire régionalisé situé en Afrique du Nord. Son régime politique est une monarchie constitutionnelle. Sa capitale est Rabat et sa plus grande ville Casablanca.Géographiquement, il est notamment caractérisé par des zones montagneuses ou désertiques et est l'un des seuls pays — avec l'Espagne et la France — à comporter des rives sur la mer Méditerranée d'un côté et l'océan Atlantique de l'autre. Sa population est de près de 34 millions d'habitants (recensement de 2014) et sa superficie de 446 550 km27, ou de 710 850 km2 en incluant le Sahara occidental, considéré comme un territoire non autonome par l'Organisation des Nations dont il administre de facto environ 80 % et qu'il revendique dans sa totalité, tout comme le Front Polisario. Sa culture est berbéro-arabe depuis plusieurs siècles, et s'est étendue principalement au Maghreb et dans le Sud de l'Espagne. Les Marocains sont essentiellement de confession musulmane.Par ailleurs, il fait partie de l'Organisation des Nations unies, de la Ligue arabe, de l'Union africaine."
+                    }
+                }
+            },
+           
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-34.9964963,-64.9672817]
+                },
+                "drp" : "../controller/data/arg.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Argentine",
+                        "polygone":"../controller/data/arg.geo.json",
+                        "photo":"../public/photos/argentine.jpeg",
+                        "resume":"L’Argentine,est un pays d’Amérique du Sud.Le 25 mai 1810, lors de la révolution de Mai, le pays n'accepte plus d'être gouverné par un vice-roi et crée un gouvernement local qui jure allégeance au roi d'Espagne. L'indépendance est définitivement acquise le 9 juillet 1816 à San Miguel de Tucumán.La capitale est Buenos Aires, la langue prédominante est l'espagnol dans sa variante rioplatense et la monnaie est le peso argentin. D'une superficie de 2 791 810 km25, l'Argentine a une densité de population de 16 habitants par km2.La religion nationale est le catholicisme.L'Argentine fait partie des pays dits du Cône Sud .Le pays abrite des paysages et écosystèmes très variés, en raison notamment d'un important gradient climatique.Bien que le football soit le sport le plus populaire en Argentine avec de très grands joueurs comme Alfredo Di Stéfano, Diego Maradona ou Lionel Messi."
+                    }
+                }
+            },
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [39.3262345,-4.8380649]
+                },
+                "drp" : "../controller/data/esp.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "Espagne",
+                            "polygone" : "../controller/data/esp.geo.json",
+                            "superficie" : "505 990",
+                            "photo" : "../public/photos/spain.jpeg",
+                            "resume" : "L'Espagne, est un pays d'Europe du sud, qui a une superficie de 505 911 km2, il s'agissait du vingt-huitième pays le plus peuplé du monde, avec 47 millions d'habitants, sa capitale Madrid c'est l'une des plus grande ville du continent.L'actuel président du gouvernement est Pedro Sánchez, du Parti socialiste ouvrier espagnol (PSOE). Depuis la restauration de la démocratie en 1978, sept personnes ont exercé cette fonction, le record de longévité revenant au socialiste Felipe González, de 1982 à 1996. l'Espagne a connu depuis 2015 l'un des taux de croissance les plus élevés de la zone euro (3,2%), retrouvant ainsi son niveau de PIB d'avant la crise. L'Espagne regorge de magnifiques paysages préservés dont beaucoup sont encore relativement inconnus. C’est un pays offrant de superbes paysages naturels, des forêts luxuriantes, des déserts arides, des volcans, des lacs et des montagnes impressionnantes."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-10.3333333,-53.2]
+                },
+                "drp" : "../controller/data/bra.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Brésil",
+                        "polygone":"../controller/data/bra.geo.json",
+                        "photo":"../public/photos/bresil.jpeg",
+                        "resume":"Le Brésil, est le plus grand État d’Amérique latine. Le Brésil est le cinquième plus grand pays de la planète,Avec une superficie de 8 514 876 km2, le pays couvre près de la moitié du territoire de l'Amérique du Sud (47,3 %).Le pays compte une population de 209 millions d'habitants. Ancienne colonie portugaise, le Brésil a pour langue officielle le portugais alors que la plupart des pays d'Amérique latine ont pour langue officielle l'espagnol.Considéré comme une grande puissance émergente, le pays est notamment membre de l'Organisation des Nations unies, du Mercosul.En dépit de la taille de son économie, le Brésil reste l'un des pays où les inégalités sociales et économiques sont parmi les plus élevées du monde.Riche en ressources naturelles, le Brésil a été identifié comme étant une nouvelle puissance pétrolière.Le climat du Brésil comprend un large éventail de conditions météorologiques diverses, pouvant varier radicalement d'un État à l'autre.Recouvert en partie par l'Amazonie, le plus grand bassin forestier de la planète,le Brésil fait partie des dix sept pays les plus riches du monde par sa biodiversité."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [33.8439408,9.400138]
+                },
+                "drp" : "../controller/data/tun.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Tunisie",
+                        "polygone":"../controller/data/tun.geo.json",
+                        "photo":"../public/photos/tunisie.jpeg",
+                        "resume":"La Tunisie, est un État d'Afrique du Nord bordé au nord et à l'est par la mer Méditerranée (1 566 kilomètres de côtes).Sa capitale Tunis est située dans le nord-est du pays,Plus de 30 % de la superficie du territoire est occupée par le désert du Sahara, le reste étant constitué de régions montagneuses et de plaines fertiles.La Tunisie est le foyer de la culture capsienne, une culture mésolithique qui a duré de 10 000 à 6 000 avant notre ère et à qui la ville de Gafsa a donné son nom. Elle est aussi le berceau de la civilisation carthaginoise .La Tunisie, un pays dont les ressources naturelles ne cessent de nous surprendre ! Le pays regorge en effet de nombreuses beautés naturelles, certaines sont d’ailleurs connues du grand public comme Tabarka, Tozeur et Bizerte.., et d’autres sont encore sauvages, inconnues et mystérieuses.la Tunisie fait partie de l'Union du Maghreb arabe, de la Ligue arabe, de la Grande zone arabe de libre-échange."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [61.0666922,-107.9917071]
+                },
+                "drp" : "../controller/data/can.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Canada",
+                        "polygone":"../controller/data/can.geo.json",
+                        "photo":"../public/photos/canada.jpeg",
+                        "resume":"Le Canada, est un pays situé dans la partie septentrionale de l'Amérique du Nord. Monarchie constitutionnelle à régime parlementaire constituée en fédération, composée de dix provinces et trois territoires.Le territoire terrestre canadien s'étend sur 10 millions de kilomètres carrés, ce qui en fait le deuxième pays du monde pour la superficie après la Russie.En 2019, il compte plus de 37 millions d'habitants1 et est ainsi le 37e pays du monde en ce qui concerne la population.Les premiers occupants du territoire canadien ont été les Amérindiens, dont les migrations remontent à environ 15 000 ans12 lors de la dernière glaciation qui a abaissé le niveau des océans et créé un pont terrestre reliant l'Eurasie à l'Amérique, permettant à ceux-ci de s'installer.Le Canada est fait de beaux paysages très variée et diversifiée permet de ravir tous les goûts avec ses nombreux lacs, océans, forêts et montagnes,Les chutes du Niagara, le glacier Athabasca, le Moraine Lake…"
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-6.8699697,-75.0458515]
+                },
+                "drp" : "../controller/data/per.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Pérou",
+                        "polygone":"../controller/data/per.geo.json",
+                        "photo":"../public/photos/perou.jpeg",
+                        "resume":"Le Pérou, est un pays situé dans l'Ouest de l'Amérique du Sud.il est le troisième pays du sous-continent par sa superficie : 1 285 220 km2, et le quatrième par sa population : environ 32 millions d'habitants.Lima, une vaste aire urbaine de 9 millions d'habitants, est la capitale et la plus grande ville du pays. Sa capitale historique est Cuzco, dans les Andes, ancienne capitale de l'empire inca.Il est membre du Forum de Coopération économique pour l'Asie-Pacifique (APEC) et de la Communauté andine des nations (CAN). Le sol est la monnaie nationale péruvienne depuis 1991, en remplacement de l'inti."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [39.7837304,-100.4458825]
+                },
+                "drp" : "../controller/data/usa.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"États-Unis",
+                        "polygone":"../controller/data/usa.geo.json",
+                        "photo":"../public/photos/usa.jpeg",
+                        "resume":"Les États-Unis, sont un pays transcontinental dont l'essentiel du territoire se situe en Amérique du Nord.Les États-Unis ont la structure politique d'une république constitutionnelle fédérale à régime présidentiel composée de cinquante États, dont quarante-huit sont adjacents et forment le Mainland.La capitale fédérale, Washington, est située dans le district de Columbia, une zone située hors des cinquante États. La monnaie est le dollar américain. Le drapeau se compose de treize bandes rouges et blanches ainsi que cinquante étoiles représentant les cinquante États fédérés de l'union. L'hymne national s'intitule The Star-Spangled Banner (La Bannière étoilée). Il n'y a pas de langue officielle aux États-Unis, bien que la langue nationale de facto soit l'anglais américain.La forme du gouvernement est celle de la démocratie représentative.Le président des États-Unis actuellement en fonction est Donald Trump.Les États-Unis se classent au quatrième rang mondial en superficie (9 631 417 km2).L'immensité du territoire, la grande variété des reliefs et des climats produisent des paysages très divers selon les régions."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-24.7761086,134.755]
+                },
+                "drp" : "../controller/data/aus.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Australie",
+                        "polygone":"../controller/data/aus.geo.json",
+                        "photo":"../public/photos/australie.jpeg",
+                        "resume":"L'Australie, est un pays de l'hémisphère sud dont la superficie couvre la plus grande partie de l'Océanie. En plus de l'île éponyme, l'Australie comprend également la Tasmanie ainsi que d’autres îles des océans Austral, Pacifique et Indien. Elle revendique aussi 6 000 000 km2 en Antarctique.Peuplée depuis plus de 50 000 ans par les Aborigènes, l'île-continent d'Australie (mainland) est visitée de manière sporadique, notamment par des pêcheurs venus du nord, puis par des marins néerlandais.Depuis son indépendance, l'Australie conserve un système politique stable de type démocratie libérale et reste une monarchie parlementaire membre du Commonwealth des Nations. La langue nationale est l'anglais et la monnaie le dollar australien. Sa capitale est Canberra, située dans le Territoire de la capitale australienne.Sa population, estimée à 25,2 millions d'habitants en décembre 20181, est principalement concentrée dans les grandes villes côtières de Sydney, Melbourne, Brisbane, Perth et Adélaïde.L'émeu est l'oiseau national de l'Australie et le kangourou est l'animal national. Le pays compte plus de 500 parcs nationaux, record dans le monde."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-23.3165935,-58.1693445]
+                },
+                "drp" : "../controller/data/pry.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Paraguay",
+                        "polygone":"../controller/data/pry.geo.json",
+                        "photo":"../public/photos/paraguay.jpeg",
+                        "resume":"Le Paraguay, est un pays d'Amérique du Sud sans accès à la mer. Son territoire compte deux régions différentes séparées par la rivière Paraguay.Sa capitale est Asuncion.La surface totale officielle du Paraguay est de 406 752 km2.Le Paraguay est un pays d'Amérique latine.Le climat, sub-tropical humide, peut laisser place en hiver à des périodes de froid, celui-ci montant depuis le Sud de l'Argentine.Le Paraguay ne possédant pas d'accès à la mer, il est entouré par environ 3 450 km de frontières terrestres et fluviales.Dans les années 2010, l’économie, en grande partie dirigée vers la production de soja, connait une croissance de 4 % en moyenne. La croissance économique ne permet néanmoins pas de faire reculer la pauvreté, qui atteint en 2018 selon les chiffres officiels plus de 26 % de la population. Le Paraguay est l'un des pays subissant les plus fort taux de déforestation. Quelque 2,5 millions d'hectares de forêts du Chaco paraguayen ont été perdus au cours de la décennie 2003-2013."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-32.8755548,-56.0201525]
+                },
+                "drp" : "../controller/data/ury.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Uruguay",
+                        "polygone":"../controller/data/ury.geo.json",
+                        "photo":"../public/photos/uruguay.jpeg",
+                        "resume":"L'Uruguay, est un pays du Cône Sud4 de l’Amérique du Sud, situé au sud du Brésil et à l’est-nord-est de l’Argentine, dont il est séparé par le fleuve Uruguay qui lui a donné son nom. La superficie terrestre de l’Uruguay est de 176 215 km2. L’Uruguay est né de la sécession de la Cisplatine, province la plus méridionale de l’Empire du Brésil, et de l’échec de sa réincorporation aux Provinces-Unies du Río de la Plata7. La langue nationale est l’espagnol latino-américain. L’Uruguay est un État laïque dont le régime de séparation des Églises et de l'État est inspiré du cas français. L'Uruguay se situe dans la continuité géographique de la Pampa argentine, c’est-à-dire que le pays est principalement constitué de grandes plaines. On trouve aussi des montagnes de faible altitude mais très escarpées, comme la Cuchilla de Haedo et la Cuchilla Grande."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [22.5000485,-100.0000375]
+                },
+                "drp" : "../controller/data/mex.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Mexique",
+                        "polygone":"../controller/data/mex.geo.json",
+                        "photo":"../public/photos/mexique.jpeg",
+                        "resume":"Le Mexique, est un pays situé dans la partie méridionale de l'Amérique du Nord. C'est le quatorzième pays en superficie, avoisinant 2 millions de km2.Avec une population estimée en mai 2018 à 130,5 millions d'habitants par l'Organisation des Nations unies, le Mexique se classe au onzième rang mondial des pays les plus peuplés. Plus de 98 % des Mexicains parlent l'espagnol mexicain, et plus de 7 millions (environ 6 %) parlent une langue indigène ; la loi mexicaine les reconnaît comme langues nationales depuis 2003, mais aucune ne possède le statut de langue officielle. Politiquement, le Mexique est une république constitutionnelle fédérale, composée de trente-deux entités fédératives dont trente et une ont le statut d'État, Mexico n'ayant pas ce statut15 car abritant la capitale politique du pays.La présence humaine au Mexique remonte à plus de 30 000 ans avant le présent.Le Mexique est un des dix-sept pays mégadivers identifiés en juillet 2000 par le programme des Nations unies pour l'environnement."
+                    }
+                }
+            },
+             {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [24.0002488,53.9994829]
+                },
+                "drp" : "../controller/data/are.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Emirats Arabes Unis",
+                        "polygone":"../controller/data/are.geo.json",
+                        "photo":"../public/photos/emirate.jpeg",
+                        "resume":"Les Émirats Arabes Unis, sont un État fédéral, créé en 1971, situé au Moyen-Orient entre le golfe Persique et le golfe d'Oman. Il est composé de sept émirats : Abou Dabi, Ajman, Charjah, Dubaï, Fujaïrah, Ras el Khaïmah et Oumm al Qaïwaïn4. Sa capitale fédérale est la ville d'Abou Dabi.Les Émirats arabes unis comptent parmi les plus importants producteurs et exportateurs de pétrole.En 2018, ils comptent 9 701 315 habitants. L'ONU estime que 90 % de la population est constituée d'immigrants.Les principales réserves gazières et pétrolières sont dans l'émirat d'Abou Dabi, déjà membre de l'Organisation des pays exportateurs de pétrole avant la création de la fédération.La totalité du territoire est désertique ou semi-désertique.Dubaï est la première ville des Émirats arabes unis, est également le premier port du pays."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [23.0131338,-80.8328748]
+                },
+                "drp" : "../controller/data/cub.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Cuba",
+                        "polygone":"../controller/data/cub.geo.json",
+                        "photo":"../public/photos/cuba.jpeg",
+                        "resume":"Cuba, est un État insulaire des Caraïbes formé de l'île de Cuba (la plus grande île des Antilles),Il est situé à l'ouest des grandes Antilles.Devançant Hispaniola en superficie, Cuba est toutefois derrière en nombre d'habitants : c'est ainsi la deuxième île la plus peuplée des Caraïbes avec près de 11 253 000 habitants. Sa capitale est La Havane, sa langue officielle l'espagnol et deux monnaies y sont utilisées : le peso cubain et le peso cubain convertible.Cuba est membre de l'Alliance bolivarienne pour les Amériques (ALBA) depuis la Déclaration conjointe signée par Hugo Chávez et Fidel Castro le 14 décembre 2004 à La Havane.Cuba est régulièrement frappée par des ouragans pendant l'été et l'automne."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [19.1399952,-72.3570972]
+                },
+                "drp" : "../controller/data/hti.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Haïti",
+                        "polygone":"../controller/data/hti.geo.json",
+                        "photo":"../public/photos/haiti.jpeg",
+                        "resume":"Haïti, est un pays des Grandes Antilles occupant le tiers occidental de l’île d'Hispaniola (soit 27 750 km2 environ), les deux tiers orientaux étant occupés par la République dominicaine. Sa capitale est Port-au-Prince.Haïti est membre observateur et invité permanent de l'Alliance bolivarienne pour les Amériques (ALBA).En plus de son hymne national, La Dessalinienne, Haïti fait également usage de deux autres hymnes : Quand nos Aïeux brisèrent leurs entraves.Les principales ressources naturelles d’Haïti sont la bauxite, le cuivre, le carbonate de calcium, la pierre à chaux, l’or, la marne et l'hydroélectricité.Le tourisme en Haïti est à la fois culturel, avec des forts, dont la citadelle La Ferrière et le palais de Sans-Souci et des villes comme Labadie ainsi que naturel, avec les plages d'eau turquoise de Jacmel."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [22.3511148,78.6677428]
+                },
+                "drp" : "../controller/data/ind.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Inde",
+                        "polygone":"../controller/data/ind.geo.json",
+                        "photo":"../public/photos/inde.jpeg",
+                        "resume":"L'Inde, est un pays d'Asie du Sud qui occupe la majeure partie du sous-continent indien. Sa capitale est New Delhi. L'Inde est le deuxième pays le plus peuplé et le septième pays le plus grand du monde. Le littoral indien s'étend sur plus de sept mille kilomètres.L'Inde est un foyer de civilisations parmi les plus anciennes du monde, la civilisation de la vallée de l'Indus s'y est développée dès 3000 av. J.-C. Le sous-continent indien a abrité de vastes empires et est présent sur les routes commerciales dès l'Antiquité. L'Inde est la terre de naissance de quatre religions majeures ,l'hindouisme, le jaïnisme, le bouddhisme et le sikhisme ,alors que le zoroastrisme, le christianisme et l'islam s'y sont implantés durant le Ier millénaire.Le pays a été progressivement annexé par la Compagnie anglaise des Indes avant de passer sous le contrôle du Royaume-Uni au xixe siècle. L'Inde devient indépendante en 1947.En 2017, l'économie indienne est la septième du monde en PIB nominal et la troisième en PIB à parité de pouvoir d'achat. L'Inde, pays à forte croissance économique, est considéré comme un nouveau pays industrialisé.Cependant certains problèmes comme la pauvreté, l'analphabétisme ou la corruption restent très importants."
+                    }
+                }
+            },
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [46.7985624, 8.2319736]
+                },
+                "drp" : "../controller/data/che.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "Suisse",
+                            "polygone" : "../controller/data/che.geo.json",
+                            "superficie" : "41 285",
+                            "photo" : "../public/photos/suisse.jpeg",
+                            "resume" : "La Suisse, est un pays de l'Europe Centrale, son hymne national est Cantique suisse. Elle a comme capitale Berne. La superficie de la Suisse est de 41 285 KM2, elle est géographiquement divisée entre les Alpes, le plateau suisse et le Jura. Parmi ses plus grandes villes comme Zurich, Genève et Bâle sont les agglomérations les plus importantes du pays en termes économiques et de population, et des villes mondiales où se trouvent le siège d'organisations internationales et des aéroports de dimension internationale. La Suisse comporte quatre régions culturelles et linguistiques et possède donc quatre langues nationales : l'allemand, le français, l'italien et le romanche. La Suisse dispose de milieux naturels de qualité et abrite une biodiversité importante avec environ 50 000 espèces répertoriées. L'économie suisse figure parmi les plus prospères et les plus développées du monde bien que la Suisse soit très pauvre en matières premières et ne dispose pas d'énergies fossiles."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [64.6863136,97.7453061]
+                },
+                "drp" : "../controller/data/rus.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Russie",
+                        "polygone":"../controller/data/rus.geo.json",
+                        "photo":"../public/photos/russie.jpeg",
+                        "resume":"La Russie,est un État fédéral transcontinental fondé en 1991, à la suite de la dislocation de l'Union des républiques socialistes soviétiques et reconnu comme successeur légal de celle-ci. Sa capitale est Moscou, sa langue officielle le russe et sa monnaie le rouble.Plus vaste État de la planète, la Russie est à cheval sur l'Asie du Nord (74,7 % de sa superficie) et sur l'Europe (25,3 %). Le territoire s'étend ainsi d'ouest en est, de l'enclave de Kaliningrad au district autonome de Tchoukotka, sur plus de 9 000 kilomètres et pour une superficie de 17 125 191 km2. Bien qu'entourée de nombreuses mers et de deux océans, la Russie est caractérisée par un climat continental avec des milieux particulièrement froids et hostiles sur la majeure partie du territoire.La population russe est estimée à près de 147 millions d'habitants en 2019.La Russie dispose de ressources minières,et énergétiques.La Russie d'aujourd'hui est une fédération constituée de 85 sujets disposant d'une autonomie politique et économique variable.Du fait de sa taille, le pays présente de nombreux types de paysages parmi lesquels prédominent des étendues relativement plates couvertes selon la latitude de toundra, de taïga, de forêts ou de steppes."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [13.470062,-15.4900464]
+                },
+                "drp" : "../controller/data/gmb.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Gambie",
+                        "polygone":"../controller/data/gmb.geo.json",
+                        "photo":"../public/photos/gambie.jpeg",
+                        "resume":"La Gambie, situé en Afrique de l'Ouest.Sa superficie est de 11 300 km2 (pays d'Afrique continentale ayant la plus petite superficie) pour une population d'un peu plus de deux millions d'habitants (estimation 2018). Banjul est la capitale et les plus grandes villes sont Serrekunda et Brikama. La Gambie partage des racines historiques avec les autres pays d’Afrique de l'Ouest qui ont connu la pratique de la traite des esclaves. Le commerce des esclaves est à l'origine de la mise en place et de la tenue d'une colonie sur le fleuve Gambie ; d'abord par les Portugais. Depuis son indépendance, la Gambie a eu trois dirigeants.La Gambie est un pays quasiment enclavé dans le Sénégal avec lequel elle partage 749 km de frontière terrestres."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [35.000074,104.999927]
+                },
+                "drp" : "../controller/data/chn.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Chine",
+                        "polygone":"../controller/data/chn.geo.json",
+                        "photo":"../public/photos/chine.jpeg",
+                        "resume":"la Chine, parfois appelée Chine populaire, est un pays d'Asie de l'Est. Avec plus d'1,4 milliard d'habitants, soit environ un sixième de la population mondiale, elle est le pays le plus peuplé du monde8. Elle compte huit agglomérations de plus de dix millions d'habitants, dont la capitale Pékin, Shanghai, Canton, Shenzhen et Chongqing, ainsi que plus de trente villes d'au moins deux millions d'habitants.Avec 9 600 000 km2 la Chine est également le plus grand pays d'Asie orientale et le troisième ou quatrième plus grand pays du monde par la superficie.La Chine est l'un des cinq membres permanents du Conseil de sécurité des Nations unies.Elle est le premier exportateur mondial et dispose de l'arme nucléaire, de la plus grande armée du monde et du deuxième plus grand budget militaire."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [14.8971921,100.83273]
+                },
+                "drp" : "../controller/data/tha.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Thaïlande",
+                        "polygone":"../controller/data/tha.geo.json",
+                        "photo":"../public/photos/thailande.jpeg",
+                        "resume":"La Thaïlande, est un pays d’Asie du Sud-Est. Avant 1939, il s’appelait le royaume de Siam. La langue officielle est le thaï et la monnaie le baht. C’est une monarchie constitutionnelle depuis 1932 dans laquelle le roi est officiellement le chef de l'État, chef des Forces armées, partisan de la religion bouddhiste et défenseur de toutes les confessions.Le pays est classé 51e pays par ordre de superficie (514 000 km2) et 21e pays le plus peuplé du monde avec 68 299 099 habitants en janvier 2017, une superficie et une population très proches de celles de la France métropolitaine.La Thaïlande a connu une croissance économique rapide entre 1985 et 1995. C'est un des nouveaux pays industrialisés, comptant parmi les Tigres asiatiques. Son économie repose notamment sur le tourisme, avec des destinations touristiques bien connues comme la région de Chiang Mai, le parc d'Ayutthaya, la station balnéaire de Pattaya, la capitale Bangkok, les provinces méridionales de Phuket, de Phang Nga, de Krabi et de nombreuses îles dans le Golfe de Thaïlande et dans la Mer d'Andaman, comme celles de Ko Samui et de Koh Phi Phi. "
+                    }
+                }
+            },
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [42.6384261,12.674297]
+                },
+                "drp" : "../controller/data/ita.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "Italie",
+                            "polygone" : "../controller/data/ita.geo.json",
+                            "superficie" : "301 338",
+                            "photo" : "../public/photos/italie.jpeg",
+                            "resume" : "L'Italie, est un pays d'Europe du sud correspondant physiquement à une partie continentale, une péninsule située au centre de la mer Méditerranée et une partie insulaire constituée par les deux plus grandes îles de cette mer.Sa superficie est de 301 336 KM2.La capitale de l'Italie est actuellement Rome. Cependant, cela n'a pas toujours été le cas et, au cours de l'Histoire, plusieurs villes ont été capitale de l'Italie. L'Italie apporte une contribution très importante à la civilisation occidentale.L'Italie est pays industriel à l'économie diversifiée, dont le produit intérieur brut.L'actuel président de la République italienne est, depuis le 3 février 2015, l'indépendant Sergio Mattarella, précédemment ministre et juge à la Cour constitutionnelle. L’Italie est bien connue du monde par la beauté que témoignent ses nombreux villages. Étant également héritière de plus de 3000 ans d’histoires, ce n’est pas un hasard qu’elle possède le plus grand nombre de patrimoines élus par l’UNESCO. Et en tant que destination touristique, elle est classée cinquième dans le monde. Villes anciennes, villages, bords de mer, parcs naturels et bien d’autres paysages font de l’Italie un magnifique pays."
+                    }
+                }
+            },
+            
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [25.6242618,42.3528328]
+                },
+                "drp" : "../controller/data/sau.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Arabie saoudite",
+                        "polygone":"../controller/data/sau.geo.json",
+                        "photo":"../public/photos/arabieSaoudite.jpeg",
+                        "resume":"L'Arabie Saoudite, est une monarchie absolue islamique dirigé par la dynastie des Saoud depuis sa création en 1932 par Abdelaziz ibn Saoud11. Peuplée de 33 millions d'habitants, occupant 80 % de la péninsule Arabique, c'est le plus grand pays du Moyen-Orient avec une superficie de plus de deux millions de kilomètres carrés, et le deuxième des pays du monde arabe, après l'Algérie.Le pays a l'islam pour religion d'État et l'arabe pour langue officielle ; il abrite les deux plus importants lieux saints de l'islam, la mosquée al-Harâm (à La Mecque) et la mosquée du Prophète (à Médine). Sa capitale est Riyad.L’Arabie saoudite a globalement un climat désertique, avec des températures diurnes très élevées et une forte baisse de la température pendant la nuit.L'Arabie saoudite est l'une des puissances régionales au Moyen-Orient.elle jouit d'un grand prestige dans l'ensemble du monde musulman et diffuse le wahhabisme partout dans le monde."
+                    }
+                }
+            },
+           
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [52.215933,19.134422]
+                },
+                "drp" : "../controller/data/pol.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "Pologne",
+                            "polygone" : "../controller/data/pol.geo.json",
+                            "superficie" : "312 679",
+                            "photo" : "../public/photos/pologne.jpeg",
+                            "resume" : "La Polone, est un pays d'Europe centrale, qui a une superficie de 312 679 km2,frontalier avec l'Allemagne à l'ouest, la Tchéquie au sud-ouest, la Slovaquie au sud, l'Ukraine à l'est-sud-est et la Biélorussie à l'est-nord-est, enfin la Lituanie et l'enclave russe de Kaliningrad au nord-est. Avec une population de 38 millions d'habitants, la Pologne est le trente-quatrième pays le plus peuplé au monde.Elle a pour capitale Varsovie, la monnais nationale,le Zloty,les villes principales sont Varsovie,Cracovie et Lodz. la Pologne est une vaste plaine ininterrompue allant de la mer Baltique au nord à la chaîne des Carpates au sud. La partie nord-est du pays, aussi appelée ' Poumon vert de la Pologne ' pour ses paysages exubérants et sauvages, constitue un paysage unique en Europe. L'actuel président de la République est Andrzej Duda, depuis le 6 août 2015.La Pologne a été intégrée dans l'Union européenne le 1er mai 2004 et est devenue l'une des économies les plus dynamiques d'Europe." 
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [36.5748441,139.2394179]
+                },
+                "drp" : "../controller/data/jpn.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Japon",
+                        "polygone":"../controller/data/jpn.geo.json",
+                        "photo":"../public/photos/japon.jpeg",
+                        "resume":"Le Japon, est un pays insulaire de l'Asie de l'Est, situé entre l'océan Pacifique et la mer du Japon.Le Japon forme, depuis 1945, un archipel de 6 852 îles de plus de 100 m2, dont les quatre plus grandes sont Hokkaidō, Honshū, Shikoku et Kyūshū, représentant à elles seules 95 % de la superficie terrestre du pays.Le Japon est la troisième puissance économique du monde pour le PIB nominal et la quatrième pour le PIB à parité de pouvoir d'achat. Il est aussi le quatrième pays exportateur et le sixième pays importateur au monde. Acteur majeur du commerce international et puissance épargnante. Le Japon est une monarchie constitutionnelle à régime parlementaire, régie par la Constitution de 1947."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [42.6073975,25.4856617]
+                },
+                "drp" : "../controller/data/bgr.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Bulgarie",
+                        "polygone":"../controller/data/bgr.geo.json",
+                        "photo":"../public/photos/bulgarie.jpeg",
+                        "resume":"La Bulgarie, est un pays d’Europe du Sud-Est situé dans les Balkans. Elle est bordée par la mer Noire à l'est, au sud par la Grèce et la Turquie, au nord par le Danube et la Roumanie, à l’ouest par la Serbie et la Macédoine du Nord. Sa capitale est Sofia.Le pays a signé et ratifié le protocole de Kyoto. En 2010, la Bulgarie a atteint son objectif de réduire ses émissions de CO2 par 30 % en comparaison avec les niveaux de 1990.Elle instaure une république multipartite à régime parlementaire, où le président de la République est chef d'État et le Premier ministre chef du gouvernement. Le pouvoir exécutif est exercé par le gouvernement tandis que le pouvoir législatif est partagé entre le gouvernement et l'Assemblée nationale. Le pouvoir judiciaire est indépendant des deux premiers."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [34.6401861,39.0494106]
+                },
+                "drp" : "../controller/data/syr.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Syrie",
+                        "polygone":"../controller/data/syr.geo.json",
+                        "photo":"../public/photos/syrie.jpeg",
+                        "resume":"La Syrie, est un pays d'Asie de l'Ouest situé sur la côte orientale de la mer Méditerranée. Elle possède des frontières terrestres avec la Turquie, l'Irak, la Jordanie, Israël, le Liban et une frontière maritime avec Chypre. Sa capitale est Damas.En 1970, après une série de dictatures militaires instables, Hafez el-Assad, alors ministre de la Défense, prend le pouvoir par un nouveau coup d'État. Son régime fortement autoritaire, structuré autour d'un parti unique, le Baas, a mis en place un contrôle de l'ensemble de la vie politique syrienne. Il est responsable du massacre de Hama.À sa mort en 2000, son fils, Bachar el-Assad, lui succède et maintient le régime instauré par son père, avec un certain relâchement des libertés en début de manda.Début 2011, la Guerre civile syrienne se déclenche dans le cadre du Printemps arabe."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [4.7064352,73.3287853]
+                },
+                "drp" : "../controller/data/mdv.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Maldives",
+                        "polygone":"../controller/data/mdv.geo.json",
+                        "photo":"../public/photos/maldive.jpeg",
+                        "resume":"Les Maldives, est un pays d'Asie du Sud composé de 1 199 îles, dont 202 habitées, situé au sud-ouest du sous-continent indien. Une distance de 608 km sépare Malé, la capitale, de Thiruvananthapuram, en Inde. La superficie des terres émergées est de 298 km2 sur les 21 372,72 km2 de superficie totale du pays, lagons inclus.Ce pays très touristique, et où s'applique la charia, est néanmoins régulièrement critiqué pour son non-respect des droits de l'homme.Dans l'ensemble on peut définir le climat des Maldives comme chaud et humide.La température de l'eau, généralement supérieure à celle de l'océan qui entoure l'archipel (grâce au fort ensoleillement des eaux basses des lagons), favorise la présence d'une flore et d'une faune sous-marines aussi nombreuses que luxuriantes."
+                    }
+                }
+            },
+          
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [45.5643442,17.0118954]
+                },
+                "drp" : "../controller/data/hrv.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Croatie",
+                        "polygone":"../controller/data/hrv.geo.json",
+                        "photo":"../public/photos/croatie.jpeg",
+                        "resume":"La Croatie,est un pays d'Europe centrale et du Sud, indépendant depuis 1991 lors de la dislocation violente de la Yougoslavie.La Croatie est une république parlementaire, démocratique et multi-partite. Elle a déjà connu trois alternances depuis son indépendance, même si la décennie 1990 – 2000 a été dominée par l'Union démocratique croate (HDZ) et Franjo Tuđman. La déclaration d'indépendance a eu lieu en 1991. Kolinda Grabar-Kitarović elle est présidente de la république de Croatie de 2015 à 2020.La langue officielle de la Croatie est le croate."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [43.738449,7.4242241]
+                },
+                "drp" : "../controller/data/irl.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Irlande",
+                        "polygone":"../controller/data/irl.geo.json",
+                        "photo":"../public/photos/irlande.jpeg",
+                        "resume":"L'Irlande, est un pays insulaire d'Europe de l'Ouest occupant la majeure partie de l'île d'Irlande dans l'océan Atlantique nord. Elle regroupe 26 des 32 comtés traditionnels de l'île, les six autres formant l'Irlande du Nord, l'une des quatre nations constitutives du Royaume-Uni.L'Irlande est une république parlementaire dont les deux langues officielles sont l'irlandais et l'anglais. Son hymne national est Amhrán na bhFiann et son drapeau est constitué de trois bandes verticales verte, blanche et orange. Le pays a pour capitale Dublin (en irlandais : Baile Átha Cliath) et a pour monnaie l'euro. L'Irlande est membre de l'Union européenne depuis 1973.Le pays s'étend sur une superficie de 70 273 km2, et sa population s'élève en 2017 à 5 011 102 habitants. La plus grande ville est la capitale Dublin, les autres principales villes étant Cork, Limerick, Galway et Waterford."
+                    }
+                }
+            },
+        
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [51.0834196,10.4234469]
+                },
+                "drp" : "../controller/data/deu.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "Allemagne",
+                            "polygone" : "../controller/data/deu.geo.json",
+                            "superficie" : "357 386",
+                            "photo" : "../public/photos/allemagne.jpeg",
+                            "resume" : "L'Allemagne, est un pays d'Europe centrale, qui a une superficie de 357 386 KM2, le pays compte quatre métropoles de plus d'un million d'habitants : la capitale Berlin, ainsi que Hambourg, Munich et Cologne. Le siège du gouvernement est situé dans la ville de Berlin et dans la ville fédérale de Bonn. Francfort-sur-le-Main est considérée comme la capitale financière de l'Allemagne. La langue officielle du pays est l'allemand, sa monnaie est l'euro. Elle est une grande puissance politique et sa dirigeante politique, Angela Merkel en 2019, est largement perçue comme la personnalité politique la plus influente de l'Union européenne. L'Allemagne est aussi la première puissance économique d'Europe ainsi que la quatrième puissance économique mondiale et elle compte parmi les pays industrialisés les plus développés et les plus performants dans le monde. Le pays a de vastes paysages naturels consistant de forêts, montagnes, rivières et plages ainsi que des villes historiques et culturelles,Berlin, sa capitale, abrite le fameux mur de Berlin et certains autres sites liés à la Seconde Guerre Mondiale."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [45.8133113,14.4808369]
+                },
+                "drp" : "../controller/data/svn.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Slovénie",
+                        "polygone":"../controller/data/svn.geo.json",
+                        "photo":"../public/photos/slovenie.jpeg",
+                        "resume":"La Slovénie, est un pays d’Europe centrale au carrefour des principales cultures européennes. Sa capitale est Ljubljana.La Slovénie est également bordée par la mer Adriatique au sud-ouest. Comptant environ 2 millions d'habitants, la Slovénie est un État membre de l'Union européenne.Historiquement, le territoire de la Slovénie a intégré de nombreux États différents : l'Empire romain, l'Empire byzantin, l'Empire carolingien, le Saint-Empire romain germanique...La Constitution de la Slovénie est adoptée le 23 décembre 1991. La Slovénie est une république parlementaire.Le sport le plus populaire en Slovénie est très probablement le ski alpin, les skieurs slovènes sont d'ailleurs fort présents au niveau international ; on peut citer parmi les plus connus Andrej Jerman, qui fait partie des meilleurs descendeurs du monde, et de bons slalomeurs comme Juri Cosir, Aleš Gorza, Mitja Dragšič ou Bernard Vajdič. "
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [45.9852129,24.6859225]
+                },
+                "drp" : "../controller/data/rou.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Roumanie",
+                        "polygone":"../controller/data/rou.geo.json",
+                        "photo":"../public/photos/roumanie.jpeg",
+                        "resume":"La Roumanie, est un État d'Europe de l'Est, le septième pays le plus peuplé de l'Union européenne et le neuvième par sa superficie. La géographie du pays est structurée par les Carpates, le Danube et le littoral de la mer Noire. Située aux confins de l'Europe du Sud-Est et de l'Europe centrale et orientale.Une forte majorité de la population s'identifie comme de langue roumaine (89 %) et de tradition chrétienne orthodoxe (81 %) ; 11 % des habitants déclarent appartenir à des minorités ethniques et 19 % à des confessions minoritaires ou être sans religion. la Roumanie renoue depuis 1991 avec la tradition parlementaire qu'elle avait inaugurée en 1868, et démocratique qu'elle avait pratiquée de 1923 à 1938."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [55.3500003,23.7499997]
+                },
+                "drp" : "../controller/data/ltu.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Lituanie",
+                        "polygone":"../controller/data/ltu.geo.json",
+                        "photo":"../public/photos/lituanie.jpeg",
+                        "resume":"La Lituanie, est un pays d’Europe du Nord situé sur la rive orientale de la mer Baltique, au nord-est de la Pologne, au nord-ouest de la Biélorussie, au sud de la Lettonie et à l'est de l'oblast russe de Kaliningrad. Sa capitale est Vilnius. C'est le plus méridional des Pays baltes ainsi que le plus peuplé et le plus grand en superficie.La Lituanie a été envahie puis incorporée à l'Union soviétique de juin 1940 à juin 1941, puis à partir de 1944 en dépit d'une résistance qui s'est prolongée jusqu'en 1953. Le pays a recouvré sa souveraineté en 1990.La Lituanie compte aujourd'hui environ 3 millions d'habitants. À ce titre, le pays est le plus peuplé et le plus visité des trois États baltes.Le lituanien est une langue balte.La Lituanie est une république parlementaire."
+                    }
+                }
+            },
+           
+            
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [46.603354, 1.888334]
+                },
+                "drp" : "../controller/data/fra.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "France",
+                            "polygone" : "../controller/data/fra.geo.json",
+                            "superficie" : "643 801",
+                            "photo" : "../public/photos/france.jpeg",
+                            "resume" : "La France, est un pays qui est situé en Europe de l'Ouest, qui a une superficie de 643 801 KM2, son hymne national est La Marseillaise. Elle a pour capitale Paris et pour langue officielle le français. Elle est bordée par la mer du Nord au nord, la Manche au nord-nord-ouest, la mer Celtique à l'ouest-nord-ouest, le golfe de Gascogne à l'ouest et la mer Méditerranée au sud-est. La France métropolitaine possède une grande variété de paysages, avec des plaines agricoles ou boisées, des chaînes de montagnes plus ou moins érodées, des littoraux diversifiés et des vallées mêlant ville et nature. L'actuel président de la République est Emmanuel Macron. Élu le 7 mai 2017, il a pris ses fonctions le 14 mai 2017. Il a nommé l'actuel Premier ministre, Édouard Philippe, le 17 mai 2017. La France est un des cinq membres permanents du Conseil de sécurité des Nations unies et participe à la vie de multiples organisations internationales, comme l'Organisation du traité de l'Atlantique nord (OTAN), l'Organisation mondiale du commerce (OMC), l'Organisation de coopération et de développement économiques (OCDE), le Conseil de l'Europe, le G8, le G20 ou l'Organisation internationale de la francophonie. la France a remporté la Coupe du monde de football à deux reprises, la première fois avec la France de ZIDANE, et la seconde avec la France de MBAPPE"
+                    }
+                }
+            },
+           
+           
+            
+            
+           
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [52.7954791,-0.5402403]
+                },
+                "drp" : "../controller/data/gbr.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "Royaume-Uni",
+                            "polygone" : "../controller/data/gbr.geo.json",
+                            "superficie" : "130 395",
+                            "photo" : "../public/photos/england.jpeg",
+                            "resume" : "L'Angleterre, est une nation constitutive du Royaume-Unia, qui a  une superficie de 130 395 km2.Elle est bordée par l'Écosse au nord et le pays de Galles à l'ouest. Son littoral est entouré par la mer du Nord à l'est, la mer d'Irlande au nord-ouest, la mer Celtique au sud-ouest, et la Manche au sud qui la sépare de l'Europe continentale. Sa capitale est Londres qui est la première aire urbaine du Royaume-Uni. L’Angleterre est une monarchie constitutionnelle doublée d’un système parlementaire. Le monarque actuel est la reine Élisabeth II, depuis le 6 février 1952. La reine, le prince Charles, prince de Galles, le prince Philip, duc d'Édimbourg, et le reste de la famille royale exercent diverses fonctions publiques conformément à leurs positions. L'économie anglaise est l'une des plus grandes au monde, avec un PIB moyen par habitant de 22 907 livres sterling."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [49.4871968,31.2718321]
+                },
+                "drp" : "../controller/data/ukr.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Ukraine",
+                        "polygone":"../controller/data/ukr.geo.json",
+                        "photo":"../public/photos/ukraine.jpeg",
+                        "resume":"L'Ukraine, est un État d'Europe orientale, le deuxième d'Europe par sa superficief. Elle est bordée par la mer Noire et la mer d'Azov au sud.Sa capitale est Kiev, sa langue officielle est l'ukrainien et sa monnaie est la hryvnia.L'Ukraine est une démocratie parlementaire où les pouvoirs présidentiels sont étendus (quoique réduits au profit du parlement). Le président d'Ukraine est élu au suffrage universel direct pour un mandat de cinq ans, renouvelable une fois. Il nomme le Premier ministre avec l'accord du Conseil suprême.L'Ukraine a une économie diversifiée, mais encore tributaire des industries établies à l'époque soviétique. L’Ukraine occupait en 2012 la neuvième place en Europe par le nombre de visiteurs.Les principales villes visités sont Kiev, Lviv, Odessa, Kamianets-Podilskï et Yalta sur la mer Noire. Les Sept merveilles d'Ukraine ainsi que les « sept merveilles naturelles d’Ukraine » sont des endroits principalement fréquentés par les touristes étrangers."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [16.3700359,-2.2900239]
+                },
+                "drp" : "../controller/data/mli.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Mali",
+                        "polygone":"../controller/data/mli.geo.json",
+                        "photo":"../public/photos/mali.jpeg",
+                        "resume":"Le Mali,est un pays d'Afrique de l'Ouest,Ancienne colonie française du Soudan français, le Mali est devenu indépendant le 22 septembre 1960, après l'éclatement de la fédération du Mali regroupant le Sénégal et la République soudanaise. Sa devise est « un peuple, un but, une foi » et son drapeau est constitué de trois bandes verticales verte, jaune et rouge.La république du Mali a conservé les frontières héritées de la colonisation, celles du Soudan français. Antérieurement, plusieurs royaumes et empires se sont succédé, englobant une partie plus ou moins importante du Mali actuel et des pays limitrophes.Avec 19 millions de résidents, la population malienne est constituée de différentes ethnies, dont les principales sont les Bambaras, les Bobos, les Bozos...Avec une économie essentiellement rurale, le Mali, pays enclavé, fait partie des 48 pays les moins avancés (PMA) sur le plan du développement socio-économique.Le pays fait partie de la Communauté économique des États de l'Afrique de l'Ouest (CEDEAO) et de l'Union africaine. Depuis 2012, le Mali est la cible d'attaques djihadistes et est confronté à des conflits communautaires.Sa capitale est Bamako, dont l'aire urbaine compte 2,529 millions d'habitants en 20191.Le Mali, avec ses 1 241 238 kilomètres carrés, est le plus vaste État d'Afrique de l'Ouest après le Niger. Il est enclavé à l’intérieur de l’Afrique occidentale entre le tropique du Cancer et l'Équateur. Il est traversé par deux grands fleuves : le Sénégal et le Niger."
+                    }
+                }
+            }
+            
+
+        ]
+
+
+    }
+
+]

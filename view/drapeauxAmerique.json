@@ -1,0 +1,172 @@
+[
+
+    {
+
+        "type" : "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-34.9964963,-64.9672817]
+                },
+                "drp" : "../controller/data/arg.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Argentine",
+                        "polygone":"../controller/data/arg.geo.json",
+                        "photo":"../public/photos/argentine.jpeg",
+                        "resume":"L’Argentine,est un pays d’Amérique du Sud.Le 25 mai 1810, lors de la révolution de Mai, le pays n'accepte plus d'être gouverné par un vice-roi et crée un gouvernement local qui jure allégeance au roi d'Espagne. L'indépendance est définitivement acquise le 9 juillet 1816 à San Miguel de Tucumán.La capitale est Buenos Aires, la langue prédominante est l'espagnol dans sa variante rioplatense et la monnaie est le peso argentin. D'une superficie de 2 791 810 km25, l'Argentine a une densité de population de 16 habitants par km2.La religion nationale est le catholicisme.L'Argentine fait partie des pays dits du Cône Sud .Le pays abrite des paysages et écosystèmes très variés, en raison notamment d'un important gradient climatique.Bien que le football soit le sport le plus populaire en Argentine avec de très grands joueurs comme Alfredo Di Stéfano, Diego Maradona ou Lionel Messi."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-10.3333333,-53.2]
+                },
+                "drp" : "../controller/data/bra.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Brésil",
+                        "polygone":"../controller/data/bra.geo.json",
+                        "photo":"../public/photos/bresil.jpeg",
+                        "resume":"Le Brésil, est le plus grand État d’Amérique latine. Le Brésil est le cinquième plus grand pays de la planète,Avec une superficie de 8 514 876 km2, le pays couvre près de la moitié du territoire de l'Amérique du Sud (47,3 %).Le pays compte une population de 209 millions d'habitants. Ancienne colonie portugaise, le Brésil a pour langue officielle le portugais alors que la plupart des pays d'Amérique latine ont pour langue officielle l'espagnol.Considéré comme une grande puissance émergente, le pays est notamment membre de l'Organisation des Nations unies, du Mercosul.En dépit de la taille de son économie, le Brésil reste l'un des pays où les inégalités sociales et économiques sont parmi les plus élevées du monde.Riche en ressources naturelles, le Brésil a été identifié comme étant une nouvelle puissance pétrolière.Le climat du Brésil comprend un large éventail de conditions météorologiques diverses, pouvant varier radicalement d'un État à l'autre.Recouvert en partie par l'Amazonie, le plus grand bassin forestier de la planète,le Brésil fait partie des dix sept pays les plus riches du monde par sa biodiversité."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [61.0666922,-107.9917071]
+                },
+                "drp" : "../controller/data/can.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Canada",
+                        "polygone":"../controller/data/can.geo.json",
+                        "photo":"../public/photos/canada.jpeg",
+                        "resume":"Le Canada, est un pays situé dans la partie septentrionale de l'Amérique du Nord. Monarchie constitutionnelle à régime parlementaire constituée en fédération, composée de dix provinces et trois territoires.Le territoire terrestre canadien s'étend sur 10 millions de kilomètres carrés, ce qui en fait le deuxième pays du monde pour la superficie après la Russie.En 2019, il compte plus de 37 millions d'habitants1 et est ainsi le 37e pays du monde en ce qui concerne la population.Les premiers occupants du territoire canadien ont été les Amérindiens, dont les migrations remontent à environ 15 000 ans12 lors de la dernière glaciation qui a abaissé le niveau des océans et créé un pont terrestre reliant l'Eurasie à l'Amérique, permettant à ceux-ci de s'installer.Le Canada est fait de beaux paysages très variée et diversifiée permet de ravir tous les goûts avec ses nombreux lacs, océans, forêts et montagnes,Les chutes du Niagara, le glacier Athabasca, le Moraine Lake…"
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-6.8699697,-75.0458515]
+                },
+                "drp" : "../controller/data/per.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Pérou",
+                        "polygone":"../controller/data/per.geo.json",
+                        "photo":"../public/photos/perou.jpeg",
+                        "resume":"Le Pérou, est un pays situé dans l'Ouest de l'Amérique du Sud.il est le troisième pays du sous-continent par sa superficie : 1 285 220 km2, et le quatrième par sa population : environ 32 millions d'habitants.Lima, une vaste aire urbaine de 9 millions d'habitants, est la capitale et la plus grande ville du pays. Sa capitale historique est Cuzco, dans les Andes, ancienne capitale de l'empire inca.Il est membre du Forum de Coopération économique pour l'Asie-Pacifique (APEC) et de la Communauté andine des nations (CAN). Le sol est la monnaie nationale péruvienne depuis 1991, en remplacement de l'inti."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [39.7837304,-100.4458825]
+                },
+                "drp" : "../controller/data/usa.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"États-Unis",
+                        "polygone":"../controller/data/usa.geo.json",
+                        "photo":"../public/photos/usa.jpeg",
+                        "resume":"Les États-Unis, sont un pays transcontinental dont l'essentiel du territoire se situe en Amérique du Nord.Les États-Unis ont la structure politique d'une république constitutionnelle fédérale à régime présidentiel composée de cinquante États, dont quarante-huit sont adjacents et forment le Mainland.La capitale fédérale, Washington, est située dans le district de Columbia, une zone située hors des cinquante États. La monnaie est le dollar américain. Le drapeau se compose de treize bandes rouges et blanches ainsi que cinquante étoiles représentant les cinquante États fédérés de l'union. L'hymne national s'intitule The Star-Spangled Banner (La Bannière étoilée). Il n'y a pas de langue officielle aux États-Unis, bien que la langue nationale de facto soit l'anglais américain.La forme du gouvernement est celle de la démocratie représentative.Le président des États-Unis actuellement en fonction est Donald Trump.Les États-Unis se classent au quatrième rang mondial en superficie (9 631 417 km2).L'immensité du territoire, la grande variété des reliefs et des climats produisent des paysages très divers selon les régions."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-23.3165935,-58.1693445]
+                },
+                "drp" : "../controller/data/pry.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Paraguay",
+                        "polygone":"../controller/data/pry.geo.json",
+                        "photo":"../public/photos/paraguay.jpeg",
+                        "resume":"Le Paraguay, est un pays d'Amérique du Sud sans accès à la mer. Son territoire compte deux régions différentes séparées par la rivière Paraguay.Sa capitale est Asuncion.La surface totale officielle du Paraguay est de 406 752 km2.Le Paraguay est un pays d'Amérique latine.Le climat, sub-tropical humide, peut laisser place en hiver à des périodes de froid, celui-ci montant depuis le Sud de l'Argentine.Le Paraguay ne possédant pas d'accès à la mer, il est entouré par environ 3 450 km de frontières terrestres et fluviales.Dans les années 2010, l’économie, en grande partie dirigée vers la production de soja, connait une croissance de 4 % en moyenne. La croissance économique ne permet néanmoins pas de faire reculer la pauvreté, qui atteint en 2018 selon les chiffres officiels plus de 26 % de la population. Le Paraguay est l'un des pays subissant les plus fort taux de déforestation. Quelque 2,5 millions d'hectares de forêts du Chaco paraguayen ont été perdus au cours de la décennie 2003-2013."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-32.8755548,-56.0201525]
+                },
+                "drp" : "../controller/data/ury.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Uruguay",
+                        "polygone":"../controller/data/ury.geo.json",
+                        "photo":"../public/photos/uruguay.jpeg",
+                        "resume":"L'Uruguay, est un pays du Cône Sud4 de l’Amérique du Sud, situé au sud du Brésil et à l’est-nord-est de l’Argentine, dont il est séparé par le fleuve Uruguay qui lui a donné son nom. La superficie terrestre de l’Uruguay est de 176 215 km2. L’Uruguay est né de la sécession de la Cisplatine, province la plus méridionale de l’Empire du Brésil, et de l’échec de sa réincorporation aux Provinces-Unies du Río de la Plata7. La langue nationale est l’espagnol latino-américain. L’Uruguay est un État laïque dont le régime de séparation des Églises et de l'État est inspiré du cas français. L'Uruguay se situe dans la continuité géographique de la Pampa argentine, c’est-à-dire que le pays est principalement constitué de grandes plaines. On trouve aussi des montagnes de faible altitude mais très escarpées, comme la Cuchilla de Haedo et la Cuchilla Grande."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [22.5000485,-100.0000375]
+                },
+                "drp" : "../controller/data/mex.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Mexique",
+                        "polygone":"../controller/data/mex.geo.json",
+                        "photo":"../public/photos/mexique.jpeg",
+                        "resume":"Le Mexique, est un pays situé dans la partie méridionale de l'Amérique du Nord. C'est le quatorzième pays en superficie, avoisinant 2 millions de km2.Avec une population estimée en mai 2018 à 130,5 millions d'habitants par l'Organisation des Nations unies, le Mexique se classe au onzième rang mondial des pays les plus peuplés. Plus de 98 % des Mexicains parlent l'espagnol mexicain, et plus de 7 millions (environ 6 %) parlent une langue indigène ; la loi mexicaine les reconnaît comme langues nationales depuis 2003, mais aucune ne possède le statut de langue officielle. Politiquement, le Mexique est une république constitutionnelle fédérale, composée de trente-deux entités fédératives dont trente et une ont le statut d'État, Mexico n'ayant pas ce statut15 car abritant la capitale politique du pays.La présence humaine au Mexique remonte à plus de 30 000 ans avant le présent.Le Mexique est un des dix-sept pays mégadivers identifiés en juillet 2000 par le programme des Nations unies pour l'environnement."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [23.0131338,-80.8328748]
+                },
+                "drp" : "../controller/data/cub.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Cuba",
+                        "polygone":"../controller/data/cub.geo.json",
+                        "photo":"../public/photos/cuba.jpeg",
+                        "resume":"Cuba, est un État insulaire des Caraïbes formé de l'île de Cuba (la plus grande île des Antilles),Il est situé à l'ouest des grandes Antilles.Devançant Hispaniola en superficie, Cuba est toutefois derrière en nombre d'habitants : c'est ainsi la deuxième île la plus peuplée des Caraïbes avec près de 11 253 000 habitants. Sa capitale est La Havane, sa langue officielle l'espagnol et deux monnaies y sont utilisées : le peso cubain et le peso cubain convertible.Cuba est membre de l'Alliance bolivarienne pour les Amériques (ALBA) depuis la Déclaration conjointe signée par Hugo Chávez et Fidel Castro le 14 décembre 2004 à La Havane.Cuba est régulièrement frappée par des ouragans pendant l'été et l'automne."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [19.1399952,-72.3570972]
+                },
+                "drp" : "../controller/data/hti.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Haïti",
+                        "polygone":"../controller/data/hti.geo.json",
+                        "photo":"../public/photos/haiti.jpeg",
+                        "resume":"Haïti, est un pays des Grandes Antilles occupant le tiers occidental de l’île d'Hispaniola (soit 27 750 km2 environ), les deux tiers orientaux étant occupés par la République dominicaine. Sa capitale est Port-au-Prince.Haïti est membre observateur et invité permanent de l'Alliance bolivarienne pour les Amériques (ALBA).En plus de son hymne national, La Dessalinienne, Haïti fait également usage de deux autres hymnes : Quand nos Aïeux brisèrent leurs entraves.Les principales ressources naturelles d’Haïti sont la bauxite, le cuivre, le carbonate de calcium, la pierre à chaux, l’or, la marne et l'hydroélectricité.Le tourisme en Haïti est à la fois culturel, avec des forts, dont la citadelle La Ferrière et le palais de Sans-Souci et des villes comme Labadie ainsi que naturel, avec les plages d'eau turquoise de Jacmel."
+                    }
+                }
+            }
+        ]
+
+
+    }
+
+]

@@ -1,0 +1,68 @@
+.navbar{
+    background-color: lightgrey;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    height: 88%;
+    background: url(https://data.fou-de-puzzle.com/.8/a-la-recherche-du-tresor-1500-pieces--puzzle.62398-1.fs.jpg);
+    background-size: cover;
+}
+
+
+.loginbox{
+    border-radius: 15px;
+    width: 320px;
+    top: 50%;
+    left: 50%;
+    background-color: lightgrey;
+    position: absolute;
+    box-sizing: border-box;
+    transform: translate(-50%,-50%);
+    padding: 15px;
+}
+
+
+.inscbox{
+    border-radius: 15px;
+    width: 320px;
+    top: 50%;
+    left: 50%;
+    background-color: lightgrey;
+    position: absolute;
+    box-sizing: border-box;
+    transform: translate(-50%,-50%);
+    padding: 15px;
+}
+label{
+    margin-bottom: 0;
+}
+.checkbox{
+    text-align: center;
+}
+button[class~="annl"]{
+    background-color: lightcoral;
+    border-color: lightcoral;
+}
+.regl{
+    background-color: rgb(46, 45, 45);
+    color: white;
+    padding: 5%;
+    padding-top: 0;
+    font-family: monospace,sans-serif;
+    font-size: 18px;
+}
+
+
+
+.footer{
+    border-radius: 5px;
+    background-color:lightgrey;
+    padding: 1% 2%;
+}
+
+.sous{
+    text-decoration: underline;
+}

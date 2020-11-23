@@ -1,0 +1,172 @@
+[
+
+    {
+
+        "type" : "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [22.3511148,78.6677428]
+                },
+                "drp" : "../controller/data/ind.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Inde",
+                        "polygone":"../controller/data/ind.geo.json",
+                        "photo":"../public/photos/inde.jpeg",
+                        "resume":"L'Inde, est un pays d'Asie du Sud qui occupe la majeure partie du sous-continent indien. Sa capitale est New Delhi. L'Inde est le deuxième pays le plus peuplé et le septième pays le plus grand du monde. Le littoral indien s'étend sur plus de sept mille kilomètres.L'Inde est un foyer de civilisations parmi les plus anciennes du monde, la civilisation de la vallée de l'Indus s'y est développée dès 3000 av. J.-C. Le sous-continent indien a abrité de vastes empires et est présent sur les routes commerciales dès l'Antiquité. L'Inde est la terre de naissance de quatre religions majeures ,l'hindouisme, le jaïnisme, le bouddhisme et le sikhisme ,alors que le zoroastrisme, le christianisme et l'islam s'y sont implantés durant le Ier millénaire.Le pays a été progressivement annexé par la Compagnie anglaise des Indes avant de passer sous le contrôle du Royaume-Uni au xixe siècle. L'Inde devient indépendante en 1947.En 2017, l'économie indienne est la septième du monde en PIB nominal et la troisième en PIB à parité de pouvoir d'achat. L'Inde, pays à forte croissance économique, est considéré comme un nouveau pays industrialisé.Cependant certains problèmes comme la pauvreté, l'analphabétisme ou la corruption restent très importants."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [64.6863136,97.7453061]
+                },
+                "drp" : "../controller/data/rus.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Russie",
+                        "polygone":"../controller/data/rus.geo.json",
+                        "photo":"../public/photos/russie.jpeg",
+                        "resume":"La Russie,est un État fédéral transcontinental fondé en 1991, à la suite de la dislocation de l'Union des républiques socialistes soviétiques et reconnu comme successeur légal de celle-ci. Sa capitale est Moscou, sa langue officielle le russe et sa monnaie le rouble.Plus vaste État de la planète, la Russie est à cheval sur l'Asie du Nord (74,7 % de sa superficie) et sur l'Europe (25,3 %). Le territoire s'étend ainsi d'ouest en est, de l'enclave de Kaliningrad au district autonome de Tchoukotka, sur plus de 9 000 kilomètres et pour une superficie de 17 125 191 km2. Bien qu'entourée de nombreuses mers et de deux océans, la Russie est caractérisée par un climat continental avec des milieux particulièrement froids et hostiles sur la majeure partie du territoire.La population russe est estimée à près de 147 millions d'habitants en 2019.La Russie dispose de ressources minières,et énergétiques.La Russie d'aujourd'hui est une fédération constituée de 85 sujets disposant d'une autonomie politique et économique variable.Du fait de sa taille, le pays présente de nombreux types de paysages parmi lesquels prédominent des étendues relativement plates couvertes selon la latitude de toundra, de taïga, de forêts ou de steppes."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [35.000074,104.999927]
+                },
+                "drp" : "../controller/data/chn.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Chine",
+                        "polygone":"../controller/data/chn.geo.json",
+                        "photo":"../public/photos/chine.jpeg",
+                        "resume":"la Chine, parfois appelée Chine populaire, est un pays d'Asie de l'Est. Avec plus d'1,4 milliard d'habitants, soit environ un sixième de la population mondiale, elle est le pays le plus peuplé du monde8. Elle compte huit agglomérations de plus de dix millions d'habitants, dont la capitale Pékin, Shanghai, Canton, Shenzhen et Chongqing, ainsi que plus de trente villes d'au moins deux millions d'habitants.Avec 9 600 000 km2 la Chine est également le plus grand pays d'Asie orientale et le troisième ou quatrième plus grand pays du monde par la superficie.La Chine est l'un des cinq membres permanents du Conseil de sécurité des Nations unies.Elle est le premier exportateur mondial et dispose de l'arme nucléaire, de la plus grande armée du monde et du deuxième plus grand budget militaire."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [14.8971921,100.83273]
+                },
+                "drp" : "../controller/data/tha.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Thaïlande",
+                        "polygone":"../controller/data/tha.geo.json",
+                        "photo":"../public/photos/thailande.jpeg",
+                        "resume":"La Thaïlande, est un pays d’Asie du Sud-Est. Avant 1939, il s’appelait le royaume de Siam. La langue officielle est le thaï et la monnaie le baht. C’est une monarchie constitutionnelle depuis 1932 dans laquelle le roi est officiellement le chef de l'État, chef des Forces armées, partisan de la religion bouddhiste et défenseur de toutes les confessions.Le pays est classé 51e pays par ordre de superficie (514 000 km2) et 21e pays le plus peuplé du monde avec 68 299 099 habitants en janvier 2017, une superficie et une population très proches de celles de la France métropolitaine.La Thaïlande a connu une croissance économique rapide entre 1985 et 1995. C'est un des nouveaux pays industrialisés, comptant parmi les Tigres asiatiques. Son économie repose notamment sur le tourisme, avec des destinations touristiques bien connues comme la région de Chiang Mai, le parc d'Ayutthaya, la station balnéaire de Pattaya, la capitale Bangkok, les provinces méridionales de Phuket, de Phang Nga, de Krabi et de nombreuses îles dans le Golfe de Thaïlande et dans la Mer d'Andaman, comme celles de Ko Samui et de Koh Phi Phi. "
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-24.7761086,134.755]
+                },
+                "drp" : "../controller/data/aus.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Australie",
+                        "polygone":"../controller/data/aus.geo.json",
+                        "photo":"../public/photos/australie.jpeg",
+                        "resume":"L'Australie, est un pays de l'hémisphère sud dont la superficie couvre la plus grande partie de l'Océanie. En plus de l'île éponyme, l'Australie comprend également la Tasmanie ainsi que d’autres îles des océans Austral, Pacifique et Indien. Elle revendique aussi 6 000 000 km2 en Antarctique.Peuplée depuis plus de 50 000 ans par les Aborigènes, l'île-continent d'Australie (mainland) est visitée de manière sporadique, notamment par des pêcheurs venus du nord, puis par des marins néerlandais.Depuis son indépendance, l'Australie conserve un système politique stable de type démocratie libérale et reste une monarchie parlementaire membre du Commonwealth des Nations. La langue nationale est l'anglais et la monnaie le dollar australien. Sa capitale est Canberra, située dans le Territoire de la capitale australienne.Sa population, estimée à 25,2 millions d'habitants en décembre 20181, est principalement concentrée dans les grandes villes côtières de Sydney, Melbourne, Brisbane, Perth et Adélaïde.L'émeu est l'oiseau national de l'Australie et le kangourou est l'animal national. Le pays compte plus de 500 parcs nationaux, record dans le monde."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [25.6242618,42.3528328]
+                },
+                "drp" : "../controller/data/sau.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Arabie saoudite",
+                        "polygone":"../controller/data/sau.geo.json",
+                        "photo":"../public/photos/arabieSaoudite.jpeg",
+                        "resume":"L'Arabie Saoudite, est une monarchie absolue islamique dirigé par la dynastie des Saoud depuis sa création en 1932 par Abdelaziz ibn Saoud11. Peuplée de 33 millions d'habitants, occupant 80 % de la péninsule Arabique, c'est le plus grand pays du Moyen-Orient avec une superficie de plus de deux millions de kilomètres carrés, et le deuxième des pays du monde arabe, après l'Algérie.Le pays a l'islam pour religion d'État et l'arabe pour langue officielle ; il abrite les deux plus importants lieux saints de l'islam, la mosquée al-Harâm (à La Mecque) et la mosquée du Prophète (à Médine). Sa capitale est Riyad.L’Arabie saoudite a globalement un climat désertique, avec des températures diurnes très élevées et une forte baisse de la température pendant la nuit.L'Arabie saoudite est l'une des puissances régionales au Moyen-Orient.elle jouit d'un grand prestige dans l'ensemble du monde musulman et diffuse le wahhabisme partout dans le monde."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [24.0002488,53.9994829]
+                },
+                "drp" : "../controller/data/are.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Emirats Arabes Unis",
+                        "polygone":"../controller/data/are.geo.json",
+                        "photo":"../public/photos/emirate.jpeg",
+                        "resume":"Les Émirats Arabes Unis, sont un État fédéral, créé en 1971, situé au Moyen-Orient entre le golfe Persique et le golfe d'Oman. Il est composé de sept émirats : Abou Dabi, Ajman, Charjah, Dubaï, Fujaïrah, Ras el Khaïmah et Oumm al Qaïwaïn4. Sa capitale fédérale est la ville d'Abou Dabi.Les Émirats arabes unis comptent parmi les plus importants producteurs et exportateurs de pétrole.En 2018, ils comptent 9 701 315 habitants. L'ONU estime que 90 % de la population est constituée d'immigrants.Les principales réserves gazières et pétrolières sont dans l'émirat d'Abou Dabi, déjà membre de l'Organisation des pays exportateurs de pétrole avant la création de la fédération.La totalité du territoire est désertique ou semi-désertique.Dubaï est la première ville des Émirats arabes unis, est également le premier port du pays."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [36.5748441,139.2394179]
+                },
+                "drp" : "../controller/data/jpn.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Japon",
+                        "polygone":"../controller/data/jpn.geo.json",
+                        "photo":"../public/photos/japon.jpeg",
+                        "resume":"Le Japon, est un pays insulaire de l'Asie de l'Est, situé entre l'océan Pacifique et la mer du Japon.Le Japon forme, depuis 1945, un archipel de 6 852 îles de plus de 100 m2, dont les quatre plus grandes sont Hokkaidō, Honshū, Shikoku et Kyūshū, représentant à elles seules 95 % de la superficie terrestre du pays.Le Japon est la troisième puissance économique du monde pour le PIB nominal et la quatrième pour le PIB à parité de pouvoir d'achat. Il est aussi le quatrième pays exportateur et le sixième pays importateur au monde. Acteur majeur du commerce international et puissance épargnante. Le Japon est une monarchie constitutionnelle à régime parlementaire, régie par la Constitution de 1947."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [34.6401861,39.0494106]
+                },
+                "drp" : "../controller/data/syr.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Syrie",
+                        "polygone":"../controller/data/syr.geo.json",
+                        "photo":"../public/photos/syrie.jpeg",
+                        "resume":"La Syrie, est un pays d'Asie de l'Ouest situé sur la côte orientale de la mer Méditerranée. Elle possède des frontières terrestres avec la Turquie, l'Irak, la Jordanie, Israël, le Liban et une frontière maritime avec Chypre. Sa capitale est Damas.En 1970, après une série de dictatures militaires instables, Hafez el-Assad, alors ministre de la Défense, prend le pouvoir par un nouveau coup d'État. Son régime fortement autoritaire, structuré autour d'un parti unique, le Baas, a mis en place un contrôle de l'ensemble de la vie politique syrienne. Il est responsable du massacre de Hama.À sa mort en 2000, son fils, Bachar el-Assad, lui succède et maintient le régime instauré par son père, avec un certain relâchement des libertés en début de manda.Début 2011, la Guerre civile syrienne se déclenche dans le cadre du Printemps arabe."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [4.7064352,73.3287853]
+                },
+                "drp" : "../controller/data/mdv.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Maldives",
+                        "polygone":"../controller/data/mdv.geo.json",
+                        "photo":"../public/photos/maldive.jpeg",
+                        "resume":"Les Maldives, est un pays d'Asie du Sud composé de 1 199 îles, dont 202 habitées, situé au sud-ouest du sous-continent indien. Une distance de 608 km sépare Malé, la capitale, de Thiruvananthapuram, en Inde. La superficie des terres émergées est de 298 km2 sur les 21 372,72 km2 de superficie totale du pays, lagons inclus.Ce pays très touristique, et où s'applique la charia, est néanmoins régulièrement critiqué pour son non-respect des droits de l'homme.Dans l'ensemble on peut définir le climat des Maldives comme chaud et humide.La température de l'eau, généralement supérieure à celle de l'océan qui entoure l'archipel (grâce au fort ensoleillement des eaux basses des lagons), favorise la présence d'une flore et d'une faune sous-marines aussi nombreuses que luxuriantes."
+                    }
+                }
+            }
+        ]
+
+
+    }
+
+]

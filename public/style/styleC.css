@@ -1,0 +1,66 @@
+
+.regl1{
+    height: 700px;
+    background: url(https://p9.storage.canalblog.com/92/98/1083413/95595548.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(248, 248, 248);
+    padding: 5%;
+    padding-top: 3%;
+}
+
+.pad{
+    padding-bottom: 20%;
+    font-family: monospace,serif;
+    color: black;
+}
+
+.diiv{
+    margin-top: -50px;
+}
+
+.conx{
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  background-color: black;
+  border-radius: 10px;
+  opacity: 0.7;
+}
+
+.pa{
+    left: 44%;
+    background-color: gray;
+}
+.hh1{
+    background: url(https://images-na.ssl-images-amazon.com/images/I/815WmIqEaHL._AC_SY355_.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: unset;
+    border-radius: 50%;
+}
+
+.alert{
+    margin-bottom: 0;
+}
+
+#bdj{
+    background-color: rgb(85, 83, 83);
+    color: blanchedalmond;
+}
+
+#maCarte{
+    margin-top: 20px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+#bravo{
+    margin-bottom : 122px;
+    
+}
+
+.conf{
+    margin-top: 100px;
+}

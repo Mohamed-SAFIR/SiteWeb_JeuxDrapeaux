@@ -1,0 +1,172 @@
+[
+
+    {
+
+        "type" : "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [28.0000272,2.9999825]
+                },
+                "drp" : "../controller/data/dza.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Algérie",
+                        "polygone":"../controller/data/dza.geo.json",
+                        "photo":"../public/photos/algerie.jpeg",
+                        "resume":"L'Algérie est un pays d’Afrique du Nord faisant partie du Maghreb. Depuis 1962, elle est nommée en forme longue République algérienne démocratique et populaire. Sa capitale est Alger, la ville la plus peuplée du pays, dans le Nord, sur la côte méditerranéenne.Au 1er janvier 2019, la population algérienne résidente avait atteint 43 millions d’habitants. Avec une superficie de 2 381 741 km2, c'est à la fois le plus grand pays d'AfriqueNote,du monde arabe et du bassin méditerranéen.L’Algérie est membre de l'Organisation des Nations unies (ONU), de l’Union africaine (UA), du Mouvement des non-alignés et de la Ligue arabe pratiquement depuis son indépendance, en 1962.L’Algérie est le pays le plus étendu du continent africain, mais aussi du monde arabe et du pourtour méditerranéen, sa partie sud représentant une fraction notable du Sahara.Dans le Nord du pays et le long du littoral méditerranéen, s'étend la bande du Tell sur environ 1 600 km22, large de 80 à 190 km. Elle est formée de petites chaînes de montagnes."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [26.2540493,29.2675469]
+                },
+                "drp" : "../controller/data/egy.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Égypte",
+                        "polygone":"../controller/data/egy.geo.json",
+                        "photo":"../public/photos/egypte.jpeg",
+                        "resume":"L'Égypte un pays se trouvant en Afrique du Nord-Est et, pour la péninsule du Sinaï, en Asie de l'Ouest. Située sur la côte sud de la Méditerranée orientale.Avec près de 105 millions d'habitants en 2020, l'Égypte est le troisième pays le plus peuplé d'Afrique.Sa capitale est Le Caire et sa monnaie la livre égyptienne. La langue officielle du pays est l'arabe, utilisé dans tous les documents et dans l'éducation.Le pouvoir exécutif est détenu par le président de la république. Depuis 1981, Hosni Moubarak occupait le poste de président, réélu lors d'un référendum tous les six ans.Durant près de trois millénaires, la vallée du Nil vit prospérer une des civilisations les plus brillantes de l'Histoire. L'invention d'une écriture originale sous forme d'idéogrammes syllabiques, les hiéroglyphes, peu de temps après l'apparition du cunéiforme en Mésopotamie vers -3300, contribue à sortir l'espèce humaine de la Préhistoire. L’Égypte des pharaons put ainsi largement s'épanouir pour atteindre son apogée au xiiie siècle avant notre ère, laissant une œuvre monumentale au patrimoine mondial."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [13.470062,-15.4900464]
+                },
+                "drp" : "../controller/data/gmb.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Gambie",
+                        "polygone":"../controller/data/gmb.geo.json",
+                        "photo":"../public/photos/gambie.jpeg",
+                        "resume":"La Gambie, situé en Afrique de l'Ouest.Sa superficie est de 11 300 km2 (pays d'Afrique continentale ayant la plus petite superficie) pour une population d'un peu plus de deux millions d'habitants (estimation 2018). Banjul est la capitale et les plus grandes villes sont Serrekunda et Brikama. La Gambie partage des racines historiques avec les autres pays d’Afrique de l'Ouest qui ont connu la pratique de la traite des esclaves. Le commerce des esclaves est à l'origine de la mise en place et de la tenue d'une colonie sur le fleuve Gambie ; d'abord par les Portugais. Depuis son indépendance, la Gambie a eu trois dirigeants.La Gambie est un pays quasiment enclavé dans le Sénégal avec lequel elle partage 749 km de frontière terrestres."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [16.0000552,-24.0083947]
+                },
+                "drp" : "../controller/data/cpv.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Cap-Vert",
+                        "polygone":"../controller/data/cpv.geo.json",
+                        "photo":"../public/photos/capVert.jpeg",
+                        "resume":"Cap-vert,est un État insulaire, composé d'un archipel de dix îles volcaniques. Situé dans l'océan Atlantique, au large des côtes du Sénégal, il couvre une superficie d'environ 4 000 km2. Praia, la capitale, se trouve à 644 km de la presqu'île du Cap-Vert, au Sénégal. L'archipel se divise en deux séries d'îles : au sud les îles de Sotavento et au nord les îles de Barlavento.Les îles étaient inhabitées avant l'arrivée des premiers explorateurs portugais en 1456.Les îles du Cap-Vert sont inhabitées jusqu'à l'arrivée des colons européens.L'archipel est découvert par des explorateurs génois et portugais vers 1456."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [-28.8166236,24.991639]
+                },
+                "drp" : "../controller/data/zaf.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Afrique du Sud",
+                        "polygone":"../controller/data/zaf.geo.json",
+                        "photo":"../public/photos/sudAfrica.jpeg",
+                        "resume":"L'Afrique du Sud,est un pays situé à l'extrémité australe du continent africain. Sa capitale administrative est Pretoria.L'Afrique du Sud compte 56,72 millions d’habitants3en 2017 répartis en 80,2 % de Noirs, 8,8 % de Coloureds, 8,4 % de Blancs et 2,5 % d'asiatiques.L'égalité des revenus entre les différents groupes de populations n'a pas progressé depuis la fin de l'apartheid et l'Afrique du Sud connaît un taux d'inégalité parmi les plus élevés au monde.C'est toutefois une puissance de référence pour le continent africain avec l'une des économies les plus développées du continent et des infrastructures modernes couvrant tout le pays. C'est la deuxième puissance économique d'Afrique derrière le Nigeria.La dénomination « république d'Afrique du Sud » a succédé à celle d'« union d'Afrique du Sud » le 31 mai 1961, lorsque le pays a cessé d'être une monarchie pour devenir une république."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [26.8234472,18.1236723]
+                },
+                "drp" : "../controller/data/lby.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Libye",
+                        "polygone":"../controller/data/lby.geo.json",
+                        "photo":"../public/photos/libye.jpeg",
+                        "resume":"Libye, est un pays de la région du Maghreb en Afrique du Nord , bordé par leMer Méditerranée au nord. L' État souverain est composé de trois régions historiques: la Tripolitaine , le Fezzan et la Cyrénaïque . Avec une superficie de près de 1,8 million de kilomètres carrés (700 000 milles carrés), la Libye est le quatrième plus grand pays d'Afrique et le 16ele plus grand pays du monde. Libye possède les dixièmes plus grandes réserves prouvées de pétrole de tous les pays du monde.La plus grande ville et capitale, Tripoli , est située dans l'ouest de la Libye et contient plus d'un million des six millions d'habitants de la Libye.La Libye est habitée par des Berbères depuis la fin de l' âge du bronze en tant que descendants des cultures ibéromaurusienne et capsienne.La Libye est devenue indépendante en tant que royaume en 1951.Le chef du coup d'État Mouammar Kadhafi a dirigé le pays de 1969 et la révolution culturelle libyenne en 1973 jusqu'à ce qu'il soit renversé et tué lors de la guerre civile libyenne de 2011."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [14.4750607,-14.4529612]
+                },
+                "drp" : "../controller/data/sen.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Sénégal",
+                        "polygone":"../controller/data/sen.geo.json",
+                        "photo":"../public/photos/senegal.jpeg",
+                        "resume":"Le Sénégal, est un pays d'Afrique de l'Ouest.La Gambie forme une quasi-enclave dans le Sénégal, pénétrant à plus de 300 km à l'intérieur des terres.Les îles du Cap-Vert sont situées à 560 km de la côte sénégalaise.Le pays doit son nom au fleuve qui le borde à l'est et au nord et qui prend sa source dans le Fouta-Djalon en Guinée. Le climat est tropical et sec avec deux saisons : la saison sèche et la saison des pluies.Le Sénégal fait partie de la Communauté économique des États de l'Afrique de l'Ouest (CEDEAO). Depuis le 2 avril 2012, le président du pays est Macky Sall. Intégré aux principales instances de la communauté internationale, le Sénégal fait également partie de l'Union africaine (UA), de la Communauté des États sahélo-sahariens (CES), de l'Organisation internationale de la francophonie et de l'Organisation de la coopération islamique.Le plus souvent la préhistoire et protohistoire du Sénégal évoquent avant tout les cercles mégalithiques de Sénégambie ou les amas coquilliers artificiels, tels ceux de l'île de Fadiouth.Des bifaces en amande du paléolithique inférieur ont été découverts dans la presqu'île du Cap-Vert, ainsi que d'autres objets en pierre plus élaborés (hachereaux, racloirs) dans la région de Rufisque et au bord des rivières du Sénégal oriental."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [16.3700359,-2.2900239]
+                },
+                "drp" : "../controller/data/mli.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Mali",
+                        "polygone":"../controller/data/mli.geo.json",
+                        "photo":"../public/photos/mali.jpeg",
+                        "resume":"Le Mali,est un pays d'Afrique de l'Ouest,Ancienne colonie française du Soudan français, le Mali est devenu indépendant le 22 septembre 1960, après l'éclatement de la fédération du Mali regroupant le Sénégal et la République soudanaise. Sa devise est « un peuple, un but, une foi » et son drapeau est constitué de trois bandes verticales verte, jaune et rouge.La république du Mali a conservé les frontières héritées de la colonisation, celles du Soudan français. Antérieurement, plusieurs royaumes et empires se sont succédé, englobant une partie plus ou moins importante du Mali actuel et des pays limitrophes.Avec 19 millions de résidents, la population malienne est constituée de différentes ethnies, dont les principales sont les Bambaras, les Bobos, les Bozos...Avec une économie essentiellement rurale, le Mali, pays enclavé, fait partie des 48 pays les moins avancés (PMA) sur le plan du développement socio-économique.Le pays fait partie de la Communauté économique des États de l'Afrique de l'Ouest (CEDEAO) et de l'Union africaine. Depuis 2012, le Mali est la cible d'attaques djihadistes et est confronté à des conflits communautaires.Sa capitale est Bamako, dont l'aire urbaine compte 2,529 millions d'habitants en 20191.Le Mali, avec ses 1 241 238 kilomètres carrés, est le plus vaste État d'Afrique de l'Ouest après le Niger. Il est enclavé à l’intérieur de l’Afrique occidentale entre le tropique du Cancer et l'Équateur. Il est traversé par deux grands fleuves : le Sénégal et le Niger."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [31.1728205,-7.3362482]
+                },
+                "drp" : "../controller/data/mar.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Maroc",
+                        "polygone":"../controller/data/mar.geo.json",
+                        "photo":"../public/photos/maroc.jpeg",
+                        "resume":"Le Maroc, en forme longue le royaume du Maroc, autrefois l'Empire chérifien, est un État unitaire régionalisé situé en Afrique du Nord. Son régime politique est une monarchie constitutionnelle. Sa capitale est Rabat et sa plus grande ville Casablanca.Géographiquement, il est notamment caractérisé par des zones montagneuses ou désertiques et est l'un des seuls pays — avec l'Espagne et la France — à comporter des rives sur la mer Méditerranée d'un côté et l'océan Atlantique de l'autre. Sa population est de près de 34 millions d'habitants (recensement de 2014) et sa superficie de 446 550 km27, ou de 710 850 km2 en incluant le Sahara occidental, considéré comme un territoire non autonome par l'Organisation des Nations dont il administre de facto environ 80 % et qu'il revendique dans sa totalité, tout comme le Front Polisario. Sa culture est berbéro-arabe depuis plusieurs siècles, et s'est étendue principalement au Maghreb et dans le Sud de l'Espagne. Les Marocains sont essentiellement de confession musulmane.Par ailleurs, il fait partie de l'Organisation des Nations unies, de la Ligue arabe, de l'Union africaine."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [33.8439408,9.400138]
+                },
+                "drp" : "../controller/data/tun.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Tunisie",
+                        "polygone":"../controller/data/tun.geo.json",
+                        "photo":"../public/photos/tunisie.jpeg",
+                        "resume":"La Tunisie, est un État d'Afrique du Nord bordé au nord et à l'est par la mer Méditerranée (1 566 kilomètres de côtes).Sa capitale Tunis est située dans le nord-est du pays,Plus de 30 % de la superficie du territoire est occupée par le désert du Sahara, le reste étant constitué de régions montagneuses et de plaines fertiles.La Tunisie est le foyer de la culture capsienne, une culture mésolithique qui a duré de 10 000 à 6 000 avant notre ère et à qui la ville de Gafsa a donné son nom. Elle est aussi le berceau de la civilisation carthaginoise .La Tunisie, un pays dont les ressources naturelles ne cessent de nous surprendre ! Le pays regorge en effet de nombreuses beautés naturelles, certaines sont d’ailleurs connues du grand public comme Tabarka, Tozeur et Bizerte.., et d’autres sont encore sauvages, inconnues et mystérieuses.la Tunisie fait partie de l'Union du Maghreb arabe, de la Ligue arabe, de la Grande zone arabe de libre-échange."
+                    }
+                }
+            }
+        ]
+
+
+    }
+
+]

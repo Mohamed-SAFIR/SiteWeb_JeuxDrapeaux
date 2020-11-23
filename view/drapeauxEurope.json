@@ -1,0 +1,127 @@
+[
+{
+    
+    "type": "FeatureCollection",
+    "features": [
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [46.603354, 1.888334]
+                },
+                "drp" : "../controller/data/fra.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "France",
+                            "polygone" : "../controller/data/fra.geo.json",
+                            "superficie" : "643 801",
+                            "photo" : "../public/photos/france.jpeg",
+                            "resume" : "La France, est un pays qui est situé en Europe de l'Ouest, qui a une superficie de 643 801 KM2, son hymne national est La Marseillaise. Elle a pour capitale Paris et pour langue officielle le français. Elle est bordée par la mer du Nord au nord, la Manche au nord-nord-ouest, la mer Celtique à l'ouest-nord-ouest, le golfe de Gascogne à l'ouest et la mer Méditerranée au sud-est. La France métropolitaine possède une grande variété de paysages, avec des plaines agricoles ou boisées, des chaînes de montagnes plus ou moins érodées, des littoraux diversifiés et des vallées mêlant ville et nature. L'actuel président de la République est Emmanuel Macron. Élu le 7 mai 2017, il a pris ses fonctions le 14 mai 2017. Il a nommé l'actuel Premier ministre, Édouard Philippe, le 17 mai 2017. La France est un des cinq membres permanents du Conseil de sécurité des Nations unies et participe à la vie de multiples organisations internationales, comme l'Organisation du traité de l'Atlantique nord (OTAN), l'Organisation mondiale du commerce (OMC), l'Organisation de coopération et de développement économiques (OCDE), le Conseil de l'Europe, le G8, le G20 ou l'Organisation internationale de la francophonie. la France a remporté la Coupe du monde de football à deux reprises, la première fois avec la France de ZIDANE, et la seconde avec la France de MBAPPE"
+                    }
+                }
+            },
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [46.7985624, 8.2319736]
+                },
+                "drp" : "../controller/data/che.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "Suisse",
+                            "polygone" : "../controller/data/che.geo.json",
+                            "superficie" : "41 285",
+                            "photo" : "../public/photos/suisse.jpeg",
+                            "resume" : "La Suisse, est un pays de l'Europe Centrale, son hymne national est Cantique suisse. Elle a comme capitale Berne. La superficie de la Suisse est de 41 285 KM2, elle est géographiquement divisée entre les Alpes, le plateau suisse et le Jura. Parmi ses plus grandes villes comme Zurich, Genève et Bâle sont les agglomérations les plus importantes du pays en termes économiques et de population, et des villes mondiales où se trouvent le siège d'organisations internationales et des aéroports de dimension internationale. La Suisse comporte quatre régions culturelles et linguistiques et possède donc quatre langues nationales : l'allemand, le français, l'italien et le romanche. La Suisse dispose de milieux naturels de qualité et abrite une biodiversité importante avec environ 50 000 espèces répertoriées. L'économie suisse figure parmi les plus prospères et les plus développées du monde bien que la Suisse soit très pauvre en matières premières et ne dispose pas d'énergies fossiles."
+                    }
+                }
+            },
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [52.215933,19.134422]
+                },
+                "drp" : "../controller/data/pol.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "Pologne",
+                            "polygone" : "../controller/data/pol.geo.json",
+                            "superficie" : "312 679",
+                            "photo" : "../public/photos/pologne.jpeg",
+                            "resume" : "La Polone, est un pays d'Europe centrale, qui a une superficie de 312 679 km2,frontalier avec l'Allemagne à l'ouest, la Tchéquie au sud-ouest, la Slovaquie au sud, l'Ukraine à l'est-sud-est et la Biélorussie à l'est-nord-est, enfin la Lituanie et l'enclave russe de Kaliningrad au nord-est. Avec une population de 38 millions d'habitants, la Pologne est le trente-quatrième pays le plus peuplé au monde.Elle a pour capitale Varsovie, la monnais nationale,le Zloty,les villes principales sont Varsovie,Cracovie et Lodz. la Pologne est une vaste plaine ininterrompue allant de la mer Baltique au nord à la chaîne des Carpates au sud. La partie nord-est du pays, aussi appelée ' Poumon vert de la Pologne ' pour ses paysages exubérants et sauvages, constitue un paysage unique en Europe. L'actuel président de la République est Andrzej Duda, depuis le 6 août 2015.La Pologne a été intégrée dans l'Union européenne le 1er mai 2004 et est devenue l'une des économies les plus dynamiques d'Europe." 
+                    }
+                }
+            },
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [51.0834196,10.4234469]
+                },
+                "drp" : "../controller/data/deu.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "Allemagne",
+                            "polygone" : "../controller/data/deu.geo.json",
+                            "superficie" : "357 386",
+                            "photo" : "../public/photos/allemagne.jpeg",
+                            "resume" : "L'Allemagne, est un pays d'Europe centrale, qui a une superficie de 357 386 KM2, le pays compte quatre métropoles de plus d'un million d'habitants : la capitale Berlin, ainsi que Hambourg, Munich et Cologne. Le siège du gouvernement est situé dans la ville de Berlin et dans la ville fédérale de Bonn. Francfort-sur-le-Main est considérée comme la capitale financière de l'Allemagne. La langue officielle du pays est l'allemand, sa monnaie est l'euro. Elle est une grande puissance politique et sa dirigeante politique, Angela Merkel en 2019, est largement perçue comme la personnalité politique la plus influente de l'Union européenne. L'Allemagne est aussi la première puissance économique d'Europe ainsi que la quatrième puissance économique mondiale et elle compte parmi les pays industrialisés les plus développés et les plus performants dans le monde. Le pays a de vastes paysages naturels consistant de forêts, montagnes, rivières et plages ainsi que des villes historiques et culturelles,Berlin, sa capitale, abrite le fameux mur de Berlin et certains autres sites liés à la Seconde Guerre Mondiale."
+                    }
+                }
+            },
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [42.6384261,12.674297]
+                },
+                "drp" : "../controller/data/ita.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "Italie",
+                            "polygone" : "../controller/data/ita.geo.json",
+                            "superficie" : "301 338",
+                            "photo" : "../public/photos/italie.jpeg",
+                            "resume" : "L'Italie, est un pays d'Europe du sud correspondant physiquement à une partie continentale, une péninsule située au centre de la mer Méditerranée et une partie insulaire constituée par les deux plus grandes îles de cette mer.Sa superficie est de 301 336 KM2.La capitale de l'Italie est actuellement Rome. Cependant, cela n'a pas toujours été le cas et, au cours de l'Histoire, plusieurs villes ont été capitale de l'Italie. L'Italie apporte une contribution très importante à la civilisation occidentale.L'Italie est pays industriel à l'économie diversifiée, dont le produit intérieur brut.L'actuel président de la République italienne est, depuis le 3 février 2015, l'indépendant Sergio Mattarella, précédemment ministre et juge à la Cour constitutionnelle. L’Italie est bien connue du monde par la beauté que témoignent ses nombreux villages. Étant également héritière de plus de 3000 ans d’histoires, ce n’est pas un hasard qu’elle possède le plus grand nombre de patrimoines élus par l’UNESCO. Et en tant que destination touristique, elle est classée cinquième dans le monde. Villes anciennes, villages, bords de mer, parcs naturels et bien d’autres paysages font de l’Italie un magnifique pays."
+                    }
+                }
+            },
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [52.7954791,-0.5402403]
+                },
+                "drp" : "../controller/data/gbr.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "Royaume-Uni",
+                            "polygone" : "../controller/data/gbr.geo.json",
+                            "superficie" : "130 395",
+                            "photo" : "../public/photos/england.jpeg",
+                            "resume" : "L'Angleterre, est une nation constitutive du Royaume-Unia, qui a  une superficie de 130 395 km2.Elle est bordée par l'Écosse au nord et le pays de Galles à l'ouest. Son littoral est entouré par la mer du Nord à l'est, la mer d'Irlande au nord-ouest, la mer Celtique au sud-ouest, et la Manche au sud qui la sépare de l'Europe continentale. Sa capitale est Londres qui est la première aire urbaine du Royaume-Uni. L’Angleterre est une monarchie constitutionnelle doublée d’un système parlementaire. Le monarque actuel est la reine Élisabeth II, depuis le 6 février 1952. La reine, le prince Charles, prince de Galles, le prince Philip, duc d'Édimbourg, et le reste de la famille royale exercent diverses fonctions publiques conformément à leurs positions. L'économie anglaise est l'une des plus grandes au monde, avec un PIB moyen par habitant de 22 907 livres sterling."
+                    }
+                }
+            },
+            {
+                "type" : "Feature",
+                "geometry" : {
+                    "type" : "point",
+                    "coordinates" : [39.3262345,-4.8380649]
+                },
+                "drp" : "../controller/data/esp.svg",
+                "proprietes" : {
+                    "pays" : {
+                            "name" : "Espagne",
+                            "polygone" : "../controller/data/esp.geo.json",
+                            "superficie" : "505 990",
+                            "photo" : "../public/photos/spain.jpeg",
+                            "resume" : "L'Espagne, est un pays d'Europe du sud, qui a une superficie de 505 911 km2, il s'agissait du vingt-huitième pays le plus peuplé du monde, avec 47 millions d'habitants, sa capitale Madrid c'est l'une des plus grande ville du continent.L'actuel président du gouvernement est Pedro Sánchez, du Parti socialiste ouvrier espagnol (PSOE). Depuis la restauration de la démocratie en 1978, sept personnes ont exercé cette fonction, le record de longévité revenant au socialiste Felipe González, de 1982 à 1996. l'Espagne a connu depuis 2015 l'un des taux de croissance les plus élevés de la zone euro (3,2%), retrouvant ainsi son niveau de PIB d'avant la crise. L'Espagne regorge de magnifiques paysages préservés dont beaucoup sont encore relativement inconnus. C’est un pays offrant de superbes paysages naturels, des forêts luxuriantes, des déserts arides, des volcans, des lacs et des montagnes impressionnantes."
+                    }
+                }
+            }
+
+
+]}]

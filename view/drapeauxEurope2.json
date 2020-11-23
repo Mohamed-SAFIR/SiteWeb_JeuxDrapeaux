@@ -1,0 +1,172 @@
+[
+
+    {
+
+        "type" : "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [46.603354,1.8883335]
+                },
+                "drp" : "../controller/data/fra.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"France",
+                        "polygone":"../controller/data/fra.geo.json",
+                        "photo":"../public/photos/france.jpeg",
+                        "resume" : "La France, est un pays qui est situé en Europe de l'Ouest, qui a une superficie de 643 801 KM2, son hymne national est La Marseillaise. Elle a pour capitale Paris et pour langue officielle le français. Elle est bordée par la mer du Nord au nord, la Manche au nord-nord-ouest, la mer Celtique à l'ouest-nord-ouest, le golfe de Gascogne à l'ouest et la mer Méditerranée au sud-est. La France métropolitaine possède une grande variété de paysages, avec des plaines agricoles ou boisées, des chaînes de montagnes plus ou moins érodées, des littoraux diversifiés et des vallées mêlant ville et nature. L'actuel président de la République est Emmanuel Macron. Élu le 7 mai 2017, il a pris ses fonctions le 14 mai 2017. Il a nommé l'actuel Premier ministre, Édouard Philippe, le 17 mai 2017. La France est un des cinq membres permanents du Conseil de sécurité des Nations unies et participe à la vie de multiples organisations internationales, comme l'Organisation du traité de l'Atlantique nord (OTAN), l'Organisation mondiale du commerce (OMC), l'Organisation de coopération et de développement économiques (OCDE), le Conseil de l'Europe, le G8, le G20 ou l'Organisation internationale de la francophonie. la France a remporté la Coupe du monde de football à deux reprises, la première fois avec la France de ZIDANE, et la seconde avec la France de MBAPPE"
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [42.6073975,25.4856617]
+                },
+                "drp" : "../controller/data/bgr.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Bulgarie",
+                        "polygone":"../controller/data/bgr.geo.json",
+                        "photo":"../public/photos/bulgarie.jpeg",
+                        "resume":"La Bulgarie, est un pays d’Europe du Sud-Est situé dans les Balkans. Elle est bordée par la mer Noire à l'est, au sud par la Grèce et la Turquie, au nord par le Danube et la Roumanie, à l’ouest par la Serbie et la Macédoine du Nord. Sa capitale est Sofia.Le pays a signé et ratifié le protocole de Kyoto. En 2010, la Bulgarie a atteint son objectif de réduire ses émissions de CO2 par 30 % en comparaison avec les niveaux de 1990.Elle instaure une république multipartite à régime parlementaire, où le président de la République est chef d'État et le Premier ministre chef du gouvernement. Le pouvoir exécutif est exercé par le gouvernement tandis que le pouvoir législatif est partagé entre le gouvernement et l'Assemblée nationale. Le pouvoir judiciaire est indépendant des deux premiers."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [45.5643442,17.0118954]
+                },
+                "drp" : "../controller/data/hrv.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Croatie",
+                        "polygone":"../controller/data/hrv.geo.json",
+                        "photo":"../public/photos/croatie.jpeg",
+                        "resume":"La Croatie,est un pays d'Europe centrale et du Sud, indépendant depuis 1991 lors de la dislocation violente de la Yougoslavie.La Croatie est une république parlementaire, démocratique et multi-partite. Elle a déjà connu trois alternances depuis son indépendance, même si la décennie 1990 – 2000 a été dominée par l'Union démocratique croate (HDZ) et Franjo Tuđman. La déclaration d'indépendance a eu lieu en 1991. Kolinda Grabar-Kitarović elle est présidente de la république de Croatie de 2015 à 2020.La langue officielle de la Croatie est le croate."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [43.738449,7.4242241]
+                },
+                "drp" : "../controller/data/irl.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Irlande",
+                        "polygone":"../controller/data/irl.geo.json",
+                        "photo":"../public/photos/irlande.jpeg",
+                        "resume":"L'Irlande, est un pays insulaire d'Europe de l'Ouest occupant la majeure partie de l'île d'Irlande dans l'océan Atlantique nord. Elle regroupe 26 des 32 comtés traditionnels de l'île, les six autres formant l'Irlande du Nord, l'une des quatre nations constitutives du Royaume-Uni.L'Irlande est une république parlementaire dont les deux langues officielles sont l'irlandais et l'anglais. Son hymne national est Amhrán na bhFiann et son drapeau est constitué de trois bandes verticales verte, blanche et orange. Le pays a pour capitale Dublin (en irlandais : Baile Átha Cliath) et a pour monnaie l'euro. L'Irlande est membre de l'Union européenne depuis 1973.Le pays s'étend sur une superficie de 70 273 km2, et sa population s'élève en 2017 à 5 011 102 habitants. La plus grande ville est la capitale Dublin, les autres principales villes étant Cork, Limerick, Galway et Waterford."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [49.4871968,31.2718321]
+                },
+                "drp" : "../controller/data/ukr.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Ukraine",
+                        "polygone":"../controller/data/ukr.geo.json",
+                        "photo":"../public/photos/ukraine.jpeg",
+                        "resume":"L'Ukraine, est un État d'Europe orientale, le deuxième d'Europe par sa superficief. Elle est bordée par la mer Noire et la mer d'Azov au sud.Sa capitale est Kiev, sa langue officielle est l'ukrainien et sa monnaie est la hryvnia.L'Ukraine est une démocratie parlementaire où les pouvoirs présidentiels sont étendus (quoique réduits au profit du parlement). Le président d'Ukraine est élu au suffrage universel direct pour un mandat de cinq ans, renouvelable une fois. Il nomme le Premier ministre avec l'accord du Conseil suprême.L'Ukraine a une économie diversifiée, mais encore tributaire des industries établies à l'époque soviétique. L’Ukraine occupait en 2012 la neuvième place en Europe par le nombre de visiteurs.Les principales villes visités sont Kiev, Lviv, Odessa, Kamianets-Podilskï et Yalta sur la mer Noire. Les Sept merveilles d'Ukraine ainsi que les « sept merveilles naturelles d’Ukraine » sont des endroits principalement fréquentés par les touristes étrangers."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [45.8133113,14.4808369]
+                },
+                "drp" : "../controller/data/svn.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Slovénie",
+                        "polygone":"../controller/data/svn.geo.json",
+                        "photo":"../public/photos/slovenie.jpeg",
+                        "resume":"La Slovénie, est un pays d’Europe centrale au carrefour des principales cultures européennes. Sa capitale est Ljubljana.La Slovénie est également bordée par la mer Adriatique au sud-ouest. Comptant environ 2 millions d'habitants, la Slovénie est un État membre de l'Union européenne.Historiquement, le territoire de la Slovénie a intégré de nombreux États différents : l'Empire romain, l'Empire byzantin, l'Empire carolingien, le Saint-Empire romain germanique...La Constitution de la Slovénie est adoptée le 23 décembre 1991. La Slovénie est une république parlementaire.Le sport le plus populaire en Slovénie est très probablement le ski alpin, les skieurs slovènes sont d'ailleurs fort présents au niveau international ; on peut citer parmi les plus connus Andrej Jerman, qui fait partie des meilleurs descendeurs du monde, et de bons slalomeurs comme Juri Cosir, Aleš Gorza, Mitja Dragšič ou Bernard Vajdič. "
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [45.9852129,24.6859225]
+                },
+                "drp" : "../controller/data/rou.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Roumanie",
+                        "polygone":"../controller/data/rou.geo.json",
+                        "photo":"../public/photos/roumanie.jpeg",
+                        "resume":"La Roumanie, est un État d'Europe de l'Est, le septième pays le plus peuplé de l'Union européenne et le neuvième par sa superficie. La géographie du pays est structurée par les Carpates, le Danube et le littoral de la mer Noire. Située aux confins de l'Europe du Sud-Est et de l'Europe centrale et orientale.Une forte majorité de la population s'identifie comme de langue roumaine (89 %) et de tradition chrétienne orthodoxe (81 %) ; 11 % des habitants déclarent appartenir à des minorités ethniques et 19 % à des confessions minoritaires ou être sans religion. la Roumanie renoue depuis 1991 avec la tradition parlementaire qu'elle avait inaugurée en 1868, et démocratique qu'elle avait pratiquée de 1923 à 1938."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [55.3500003,23.7499997]
+                },
+                "drp" : "../controller/data/ltu.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Lituanie",
+                        "polygone":"../controller/data/ltu.geo.json",
+                        "photo":"../public/photos/lituanie.jpeg",
+                        "resume":"La Lituanie, est un pays d’Europe du Nord situé sur la rive orientale de la mer Baltique, au nord-est de la Pologne, au nord-ouest de la Biélorussie, au sud de la Lettonie et à l'est de l'oblast russe de Kaliningrad. Sa capitale est Vilnius. C'est le plus méridional des Pays baltes ainsi que le plus peuplé et le plus grand en superficie.La Lituanie a été envahie puis incorporée à l'Union soviétique de juin 1940 à juin 1941, puis à partir de 1944 en dépit d'une résistance qui s'est prolongée jusqu'en 1953. Le pays a recouvré sa souveraineté en 1990.La Lituanie compte aujourd'hui environ 3 millions d'habitants. À ce titre, le pays est le plus peuplé et le plus visité des trois États baltes.Le lituanien est une langue balte.La Lituanie est une république parlementaire."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [64.9841821,-18.1059013]
+                },
+                "drp" : "../controller/data/isl.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Islande",
+                        "polygone":"../controller/data/isl.geo.json",
+                        "photo":"../public/photos/islande.jpeg",
+                        "resume":"L'Islande, est un pays insulaire d'Europe du Nord situé dans l'océan Atlantique. Géographiquement plus proche du continent américain du fait de sa proximité avec le Groenland, le pays est rattaché culturellement et historiquement à l'Europe. Ayant pour capitale et pour plus grande ville Reykjavik, son régime politique est une république parlementaire.Île de l'océan Atlantique nord, située entre le Groenland et la Norvège, au nord-ouest des îles Féroé, l'Islande s'étend sur 102 775 km2.L'Islande a pour régime politique une république parlementaire. Le pouvoir exécutif est exercé par son chef d'État, portant le titre de « président d'Islande », et le gouvernement de l'Islande dirigé par un Premier ministre."
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry":{
+                    "type" : "point",
+                    "coordinates": [38.9953683,21.9877132]
+                },
+                "drp" : "../controller/data/grc.svg",
+                "proprietes":{
+                    "pays":{
+                        "name":"Grèce",
+                        "polygone":"../controller/data/grc.geo.json",
+                        "photo":"../public/photos/grece.jpeg",
+                        "resume":"La Grèce, est un pays d’Europe du Sud. D'une superficie de 131 957 km2 pour un peu moins de onze millions d'habitants.  La mer Ionienne à l'ouest et la mer Égée à l'est, parties de la mer Méditerranée, encadrent le pays dont le cinquième du territoire est constitué de plus de 9 000 îles et îlots dont près de 200 sont habités. De plus, 80 % de son territoire est constitué de montagnes dont la plus haute est le mont Olympe, dont le sommet culmine à 2 917 mètres. La Grèce est le berceau de la civilisation occidentale, patrie des arts (théâtre, architecture), de la politique (Athènes est le berceau de la démocratie), de la philosophie (stoïcisme, épicurisme, aristotélisme) et des sciences (mathématiques, physiques, médecine). La Grèce hellénistique a légué à l'Europe un patrimoine culturel et linguistique colossal."
+                    }
+                }
+            }
+        ]
+
+
+    }
+
+]
